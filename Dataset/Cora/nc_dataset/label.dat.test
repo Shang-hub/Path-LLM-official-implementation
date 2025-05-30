@@ -1,620 +1,500 @@
-1	Decomposition in Data Mining: An Industrial Case Study Data mining offers tools for discovery of relationships patterns and knowledge in large databases	ML	1
-2	Exploration versus Exploitation in Topic Driven Crawlers Topic driven crawlers are increasingly seen as a way to address the scalability limitations of universal search engines by distributing the crawling process across users queries or even client computers	IR	2
-11	Use of Satellite Image Referencing Algorithms to Characterize Asphaltic Concrete Mixtures A natural way to test the structural integrity of a pavement is to send signals with different frequencies through the pavement and compare the results with the signals passing through an ideal pavement	ML	1
-15	A Case for Parallelism in Data Warehousing and OLAP In recent years the database community has experienced a tremendous increase in the availability of new technologies to support efficient storage and retrieval of large volumes of data namely data warehousing and  On-Line Analytical Processing (OLAP) products	DB	3
-16	Error-Driven Pruning of Treebank Grammars for Base Noun Phrase Identification Finding simple non-recursive base noun phrases is an important subtask for many natural language processing applications	IR	2
-18	Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs As a confluence of data mining and WWW technologies it is now possible to perform data mining on web log records collected from the Internet web page access history	DB	3
-26	A Pattern Approach to Interaction Design To create successful interactive systems user interface designers need to cooperate with developers and application domain experts in an interdisciplinary team	HCI	4
-29	Benchmarking XML Management Systems: The XOO7 Way The effectiveness of existing XML query languages has been studied by many who focused  on the comparison of linguistic features implicitly reflecting the fact that most XML tools exist  only on paper	DB	3
-33	Use Case Maps as a Feature Description Notation	DB	1
-35	Hermes - A Notification Service for Digital Libraries The high publication rate of scholarly material makes searching and browsing an inconvenient way to keep oneself up-todate	IR	3
-39	Web Usage Mining - Languages and Algorithms We propose two new XML applications XGMML and LOGML	IR	2
-43	Distinctive Features Should Be Learned Most existing machine vision systems perform recognition based on a xed set  of hand-crafted features geometric models or eigen-subspace decomposition	ML	1
-49	Rapid Concurrent Software Engineering in Competitive Situations This article is an experience report on the evolutionary development process of AT Humboldt a multi agent system which has become World Champion 1997 and Vice World Champion 1998 of RoboCup simulator league	Agents	0
-50	Economic Markets as a Means of Open Mobile-Agent Systems Mobile-agent systems have gained popularity in use because they ease the application design process by giving software engineers greater flexibility	Agents	0
-55	SI-Designer: a tool for intelligent integration of information SI-Designer (Source Integrator Designer) is a designer support tool for semi � automatic integration of heterogeneous sources schemata (relational object and semi � structured sources); it has been implemented within the MOMIS project and it carries out integration following a semantic approach which uses intelligent Description Logics-based techniques clustering techniques and an extended ODMG-ODL language �������� �  to represent schemata extracted integrated information	DB	3
-60	Object-Based Multimedia Content Description Schemes and Applications for MPEG-7 In this paper we describe description schemes (DSs) for image video multimedia home media and archive content proposed to the MPEG-7 standard	IR	2
-62	Approximate Query Translation across Heterogeneous Information Sources (Extended Version) In this paper we present a mechanism for  approximately translating Boolean query constraints  across heterogeneous information sources	DB	3
-64	Bias Variance and Error Correcting Output Codes for Local Learners : This paper focuses on a bias variance decomposition analysis of a local learning algorithm the nearest neighbor classifier that has been extended with error correcting output codes	ML	1
-65	Schema Evolution in Heterogeneous Database Architectures A Schema Transformation Approach In previous work we have a developed general framework to support schema transformation and integration in heterogeneous database architectures	DB	3
-66	Dynamic Connection of Wearable Computers to Companion Devices Using Near-Field Radio Hewlett-Packard Laboratories Bristol and the University of Bristol Department of Computer Science are engaged in an initiative to explore the design technology and use of wearable computers	HCI	4
-69	The CyberShoe: A Wireless Multisensor Interface for a Dancer's Feet : As a bridge between our interest in Wearable Computer systems and new performance interfaces for digital music we have built a highly instrumented pair of sneakers for interactive dance	HCI	4
-71	Logical Transactions and Serializability The concept of logic databases can serve as a clear and expressive foundation of various information systems	DB	3
-76	A Gesture Interface for Human-Robot-Interaction We present a person-independent gesture interface implemented on a real robot which allows the user to give simple commands eg how to grasp an object and where to put it	AI	5
-91	A Framework for Knowledge Management on the Semantic Web The Semantic Web can be a very promising platform for developing knowledge management systems	IR	2
-99	Using a Room Metaphor to Ease Transitions in Groupware Many groupware systems contain gaps that hinder or block natural social interaction or that do not let people easily move between different styles of work	HCI	4
-100	TIC - A Toolkit for Validation in Formal Language Learning Quite often heuristics and common sense suggest  directions for improving well--known learning algorithms	ML	1
-107	Benchmarking Optimization Software with COPS 1 Introduction 1 Testing Methods 2 1 Largest Small Polygon 3 2 Distribution of Electrons on a Sphere 5 3 Hanging Chain 7 4 Shape Optimization of a Cam 9 5 Isometrization of ff-pinene 11 6 Marine Population Dynamics 13 7 Flow in a Channel 16 8 Robot Arm 18 9 Particle Steering 21 10 Goddard Rocket 23 11 Hang Glider 26 12 Catalytic Cracking of Gas Oil 29 13 Methanol to Hydrocarbons 31 14 Catalyst Mixing 33 15 Elastic-Plastic Torsion 35 16 Journal Bearing 37 17 Minimal Surface with Obstacle 39 Acknowledgments 41 References 41 ii  Benchmarking Optimization Software with COPS  by  Elizabeth D Dolan and Jorge J Mor'e Abstract  We describe version 20 of the COPS set of nonlinearly constrained optimization problems	AI	5
-108	A Tableau Calculus for Temporal Description Logic: The Expanding Domain Case	DB	3
-111	First Results in the Coordination of Heterogeneous Robots for Large-Scale Assembly : While many multi-robot systems rely on fortuitous cooperation  between agents some tasks such as the assembly of large structures require  tighter coordination	Agents	0
-115	Modeling Emotions and Other Motivations in Synthetic Agents We present Cathexis a distributed computational model which offers an alternative approach to model the dynamic nature of different affective phenomena such as emotions moods and temperaments and provides a flexible way of modeling their influence on the behavior of synthetic autonomous agents	Agents	0
-128	A Simple Query Facility for the Objectivity/DB Persistent Object Manager This document discusses the reasons that lead to the development of a query faciliy within the CRISTAL project its design criteria syntax semantics use and restrictions	DB	3
-129	Multiple Goal Q-Learning: Issues and Functions This paper addresses the concerns of agents using reinforcement learning to learn to achieve multiple simultaneous goals	ML	1
-138	A Flexible Interoperable Framework for Active Spaces this paper we describe the requirements faced by such a system and propose an integrated architecture meeting these requirements	HCI	4
-143	Qualitative Spatial Representation and Reasoning: An Overview	HCI	4
-157	Direct value-approximation for factored MDPs We present a simple approach for computing reasonable policies  for factored Markov decision processes (MDPs) when the optimal  value function can be approximated by a compact linear form	ML	1
-171	Consensus-Based Methods Applied to the Intelligent User Interface Development In today's world properly designed user interfaces are becoming crucial for every information systems	HCI	4
-179	A Neuro-Fuzzy Solution for Integrated Visual and Force Control In this paper the use of a B-spline neuro-fuzzy model for different tasks such as vision-based fine-positioning using uncalibrated cameras and force control is presented	ML	1
-184	Using Experience to Guide Web Server Selection We examine the use of the anycasting communication paradigm to improve client performance when accessing replicated multimedia objects	IR	2
-198	Analysis and Design of Multiagent Systems Using Hybrid Coordination Media Over the last few years two advances in agent-oriented  software engineering have had a significant impact	Agents	0
-208	QUEST - Querying specialized collections on the Web Ensuring access to specialized web-collections in a fast evolving web  environment requires flexible techniques for orientation and querying	IR	2
-211	Rewriting Conjunctive Queries Using Views in Description Logics with Existential Restrictions this paper extending the work of [8] we study the problem of rewriting conjunctive queries over DL expressions into conjunctive queries using a set of views that are a set of distinguished DL expressions for three DLs allowing existential restrictions: FLE  ALE and ALNE	DB	3
-214	An Intelligent Agent Framework In VRML Worlds actions eg	Agents	0
-218	ToX - The Toronto XML Engine Abstract	DB	3
-226	Super Logic Programs Recently considerable interest and research eort has been given to the problem of finding a suitable extension of the logic programming paradigm beyond the class of normal logic programs	AI	3
-236	User Behavior Analysis of Location Aware Search Engine Rapid growth of internet access from mobile users puts much importance on location specific information on the web	IR	4
-239	Specification of Heterogeneous Agent Architectures	Agents	0
-247	Effective Temporal Aggregation using Point-based Trees	DB	3
-251	Response Generation in Collaborative Negotiation In collaborative planning activities since the agents are autonomous and heterogeneous it is inevitable that conflicts arise in their beliefs during the planning process	Agents	0
-257	MSVT: A Virtual Reality-Based Multimodal Scientific Visualization Tool Recent approaches to providing users with more natural methods of interacting with virtual environment applications have shown that more than one mode of input can be both beneficial and intuitive as a communication medium between humans and computer applications	HCI	4
-264	Incremental Learning of Explanation Patterns and their Indices This paper describes how a reasoner can improve its understanding of an incompletely understood domain through the application of what it already knows to novel problems in that domain	ML	1
-274	Merging Potentially Inconsistent Items of Structured Text Structured text is a general concept that is implicit in a variety of approaches to handling  information	DB	3
-275	MARS: a Programmable Coordination Architecture for Mobile Agents Mobile agents represent a promising technology for the development of Internet  applications	Agents	0
-281	Managing Robot Autonomy and Interactivity Using Motives and Visual Communication An autonomous mobile robot operating in everyday life conditions will have to face a huge variety of situations and to interact with other agents (living or artificial)	AI	5
-283	The Cub-e a Novel Virtual 3D Display Device We have designed and are in the process of building a visualisation device  the Cub-e	HCI	4
-285	Concurrency Control and Recovery in Transactional Process Management The classical theory of transaction management contains two different aspects namely concurrency control and recovery which ensure serializability and atomicity of transaction executions respectively	DB	3
-286	Supporting Conflict Resolution in Cooperative Design Systems Complex modern-day artifacts are designed cooperatively by groups of experts each with their own areas of expertise	Agents	0
-292	Manipulating Interpolated Data is Easier than You Thought Data defined by interpolation is frequently  found in new applications involving geographical  entities moving objects or spatiotemporal  data	DB	3
-294	Reasoning with Concrete Domains Description logics are knowledge representation and reasoning formalisms  which represent conceptual knowledge on an abstract logical  level	AI	5
-295	Highly Concurrent Shared Storage	DB	3
-300	Integrating Case-Based Learning and Cognitive Biases for Machine Learning of Natural Language This paper shows that psychological constraints on human information processing can be used effectively  to guide feature set selection for case-based learning of linguistic knowledge	ML	1
-304	An'alisis Din'amico De Las Creencias El modelo de los mundos posibles y su sem'antica de Kripke asociada dan una sem'antica intuitiva para las l'ogicas dox'asticas pero parecen llevar inevitablemente a modelizar agentes l'ogicamente omniscientes y razonadores perfectos	Agents	0
-313	Modeling Sociality In The BDI Framework	Agents	0
-317	Class Representation and Image Retrieval with Non-Metric Distances One of the key problems in appearance-based vision is understanding how to use a set of labeled images to classify new images	ML	1
-322	Combining Multiple Learning Strategies for Effective Cross Validation Parameter tuning through cross-validation  becomes very difficult when the validation  set contains no or only a few examples of  the classes in the evaluation set	IR	2
-324	FOLEYAUTOMATIC: Physically-based Sound Effects for Interactive Simulation and Animation Animations for which sound effects were automatically added by our system demonstrated in the accompanying video	HCI	4
-331	A Data Model and Data Structures for Moving Objects Databases We consider spatio-temporal databases supporting spatial objects with continuously  changing position and extent termed moving objects databases	DB	3
-338	Enabling knowledge representation on the Web by extending RDF Schema Recently there has been a wide interest in using ontologies on the Web	IR	2
-344	OMS/Java: Model Extensibility of OODBMS for Advanced Application Domains	DB	3
-346	A Layered Approach to Learning Client Behaviors in the RoboCup Soccer Server In the past few years Multiagent Systems (MAS) has emerged as an active subfield of Artificial Intelligence (AI)	AI	5
-349	Iterative Information Retrieval Using Fast Clustering and Usage-Specific Genres This paper describes how collection specific empirically defined stylistics based genre prediction can be brought together together with rapid topical clustering to build an interactive information retrieval interface with multi-dimensional presentation of search results	IR	2
-350	Agent-mediated Electronic Commerce: Scientific and Technological roadmap	Agents	0
-351	Modified Gath-Geva Fuzzy Clustering for Identification of Takagi-Sugeno Fuzzy Models The construction of interpretable Takagi--Sugeno (TS) fuzzy models by means of clustering is addressed	ML	1
-359	The PicSOM Retrieval System: Description and Evaluations We have developed an experimental system called PicSOM for retrieving images similar to a given set of reference  images in large unannotated image databases	HCI	4
-362	CHIME: Customizable Hyperlink Insertion and Maintenance Engine for Software Engineering Environments Source code browsing is an important part of program comprehension	DB	3
-377	Reasoning within Fuzzy Description Logics Description Logics (DLs) are suitable well-known logics for managing structured knowledge	ML	1
-378	Feature Selection in Web Applications By ROC Inflections and Powerset Pruning coetzeecompumanlawrencegiles¥ A basic problem of information processing is selecting enough features to ensure that events are accurately represented for classification problems while simultaneously minimizing storage and processing of irrelevant or marginally important features	IR	2
-381	Scalable Processing of Read-Only Transactions in Broadcast Push Recently push-based delivery has attracted considerable attention as a means of disseminating information to large client populations in both wired and wireless settings	DB	3
-389	A Formal Approach to Detecting Security Flaws in Object-Oriented Databases This paper adopts the method-based authorization model and assumes the following database management policies	DB	3
-403	Specifying Agents with UML in Robotic Soccer The use of agents and multiagent systems is widespread in computer  science nowadays	Agents	0
-408	Geometric Foundations for Interval-Based Probabilities The need to reason with imprecise probabilities arises in a wealth of situations ranging from pooling of knowledge from multiple experts to abstraction-based probabilistic planning	AI	5
-410	Face Detection Using Mixtures of Linear Subspaces We present two methods using mixtures of linear subspaces for face detection in gray level images	ML	1
-415	Achieving Workflow Adaptability by means of Reflection Belief in the importance of business processes has triggered considerable interest in the workflow systems that automate these processes	DB	3
-417	Optimal Anytime Search For Constrained Nonlinear Programming In this thesis we study optimal anytime stochastic search algorithms (SSAs) for solving general constrained nonlinear programming problems (NLPs) in discrete continuous and mixed-integer space	AI	5
-421	Lifelike Gesture Synthesis and Timing for Conversational Agents Besides the inclusion of gesture recognition devices as an intuitive input modality the synthesis of lifelike gesture is finding growing attention in human-computer interface research	HCI	4
-426	On the Learnability and Design of Output Codes for Multiclass Problems	IR	2
-429	Personality-Driven Social Behaviors in Believable Agents Agents are considered believable when they are viewed by an audience as endowed with thoughts desires and emotions typical of different personalities	HCI	4
-433	Aliasing on the World Wide Web: Prevalence and Performance Implications Aliasing occurs in Web transactions when requests containing different URLs elicit replies containing identical data payloads	IR	2
-437	Path Planning Using Lazy PRM This paper describes a new approach to probabilistic roadmap planners (PRMs)	AI	5
-440	Probabilistic Default Reasoning with Conditional Constraints We present an approach to reasoning from statistical and subjective knowledge which is based on a combination of probabilistic reasoning from conditional constraints with approaches to default reasoning from conditional knowledge bases	DB	3
-444	A Vision for Management of Complex Models Many problems encountered when building applications of database systems involve the manipulation of models	DB	3
-448	A Runtime System for Interactive Web Services Interactive web services are increasingly replacing traditional static web pages	DB	3
-464	Deductive Database Languages: Problems and Solutions this paper we discuss these problems from four different aspects: complex values object orientation higher-orderness and updates	DB	3
-468	A Wearable Spatial Conferencing Space Wearable computers provide constant access to computing and communications resources	HCI	4
-481	Flex And Pinch: A Case Study Of Whole Hand Input Design For Virtual Environment Interaction We present a discussion of design issues involving whole hand input in virtual environments	HCI	4
-485	Plan Recognition in Military Simulation: Incorporating Machine Learning with Intelligent Agents A view of plan recognition shaped by both  operational and computational requirements is  presented	Agents	0
-487	The Power of Word Clusters for Text Classification The recently introduced Information Bottleneck method [21] provides an information theoretic framework for extracting features of one variable that are relevant for the values of another variable	IR	2
-489	An Open Framework for Distributed Multimedia Retrieval This article describes a framework for distributed multimedia retrieval which permits the  connection of compliant user interfaces with a variety of multimedia retrieval engines via an  open communication protocol MRML (Multi Media Retrieval Markup Language)	ML	1
-492	Efficiently Computing Weighted Proximity Relationships in Spatial Databases Spatial data mining recently emerges from a number of real applications such as real-estate marketing urban planning weather forecasting medical image analysis road traffic accident analysis etc	DB	3
-495	Partitioning-Based Clustering for Web Document Categorization Clustering techniques have been used by manyintelligent software agents in order to retrieve lter and categorize documents available on the World Wide Web	IR	2
-498	Case-based Learning for Knowledge-based Design Support	ML	1
-521	Automatic Discovery of Language Models for Text Databases The proliferation of text databases within large organizations and on the Internet makes it difficult for a person to know which databases to search	IR	2
-523	Superimposing Codes Representing Hierarchical Information in Web directories In this article we describe how superimposed coding can be used  to represent hierarchical information which is especially useful in categorized information retrieval systems (for example Web  directories)	IR	2
-525	From Corporate Memories to Supply Web Memory Modern production has discovered knowledge as  an additional factor of production and a new trend  of research development and implementation of  corporate memory systems is arising	Agents	3
-531	Learning and Tracking Human Motion Using Functional Analysis We present a method for the modeling and tracking of human motion using a sequence of 2D video images	HCI	4
-537	A Semantic Approach to Information Integration: the MOMIS project this paper we propose a semantic approach to the integration of heterogeneous information	DB	3
-540	Learning Environmental Features for Pose Estimation We present a method for learning a set of environmental features which are useful for pose estimation	Agents	0
-549	Equal Time for Data on the Internet with WebSemantics	IR	2
-550	A Practical Approach for Recovery of Evicted Variables SRC’s charter is to advance the state of the art in computer systems by doing basic and applied research in support of our company’s business objectives	HCI	4
-551	Intelligent Diagnosis Systems This paper examines and compares several different approaches to the design of Intelligent Systems for Diagnosis and Advising applications	ML	1
-556	A Comparison of Decision Making Criteria and Optimization Methods for Active Robotic Sensing This work presents a comparison of decision making criteria  and optimization methods for active sensing in robotics	ML	1
-557	A Five Layer Sensor Architecture for Autonomous Robots in Indoor Environments Autonomous mobile service robots for transportation tasks in indoor environments eg	ML	1
-558	Integrating Models of Personality and Emotions into Lifelike Characters	HCI	4
-559	An Updated Survey of Evolutionary Multiobjective Optimization Techniques: State of the Art and Future Trends This paper reviews some of the most popular evolutionary multiobjective optimization techniques currently reported in the literature indicating some of their main applications their advantages disadvantages and degree of aplicability	ML	1
-561	An Agent Based Framework for Mobile Users User mobility together with an easy access to distributed resources is one of the greatest challenge to be faced in the future years	Agents	0
-568	A Fast Multi-Dimensional Algorithm for Drawing Large Graphs We present a novel hierarchical force-directed method for drawing large graphs	AI	5
-573	Controlling the Robots of Web Search Engines Robots are deployed by a Web search engine for collecting information from different Web servers in order to maintain the currency of its data base of Web pages	IR	2
-580	LIME: Linda Meets Mobility Lime is a system designed to assist in the rapid development of dependable mobile applications over both wired and ad hoc networks	Agents	0
-582	Scaling Question Answering to the Web The wealth of information on the web makes it an attractive resource for seeking quick answers to simple factual questions such as “who was the first American in space?	IR	2
-584	Data-Driven Generation of Compact Accurate and Linguistically-Sound Fuzzy Classifiers Based on a Decision-Tree Initialization The data-driven identification of fuzzy rule-based classifiers for high-dimensional problems is addressed	AI	1
-598	Audio Driven Facial Animation For Audio-Visual Reality In this paper we demonstrate a morphing based automated audio driven facial animation system	HCI	4
-599	Augmented Reality: Which Augmentation for Which Reality?	HCI	4
-609	Scalable Consistency Protocols for Distributed Services AbstractÐA common way to address scalability requirements of distributed services is to employ server replication and client caching of objects that encapsulate the service state	DB	3
-614	Socialware: Multiagent Systems for Supporting Network Communities ing with credit is permitted	Agents	0
-615	Updating Mental States from Communication	Agents	0
-617	Supporting Dialogue Inferencing in Conversational Case-Based Reasoning	AI	5
-619	An Architecture and Object Model for Distributed Object-Oriented Real-Time Databases The confluence of computers communications and databases is quickly creating a distributed database where many applications require real-time access to both temporally accurate and multimedia data	DB	3
-621	Principles for a Usability-Oriented Pattern Language High-level usability principles (eg	HCI	4
-622	Controlling Speculative Computation in Multi-Agent Environments In this paper we propose a multi-agent system which performs speculative computation under incomplete communication environments	Agents	0
-627	Binary Decision Diagram Representations Of Firewall And Router Access Lists Network firewalls and routers can use a rule database to decide which packets will be allowed from one network onto another	DB	3
-629	Data Resource Selection in Distributed Visual Information Systems With the advances in multimedia databases and the popularization of the Internet it is now possible to access large image and video repositories distributed throughout the world	IR	2
-634	Mining Source Coverage Statistics for Data Integration Recent work in data integration has shown the importance of statistical information about the coverage and overlap of sources for efficient query processing	DB	3
-635	Bringing Robustness to End-User Programming In some cases end-user programming allows the design of stand-alone applications	HCI	4
-642	The KRAFT Architecture for Knowledge Fusion and Transformation This paper describes the KRAFT architecture which supports the fusion of knowledge  from multiple distributed heterogeneous sources	Agents	0
-648	Localisation using Automatically Selected Landmarks from Panoramic Images The use of visual landmarks for robot localisation is a promising field	Agents	0
-654	A Unified View of Plans as Recipes Plans as recipes or abstract structures as well as plans as mental attitudes that guide an agent in its planning process has been enthusiastically embraced by both philosophers and AI practitioners	Agents	0
-664	Visual Contextual Awareness in Wearable Computing Small body-mounted video cameras enable a different style of wearable computing interface	HCI	4
-674	Interactive Pedagogical Drama This paper describes an agent-based approach to realizing interactive pedagogical drama	Agents	0
-678	The Logic Programming Paradigm	DB	3
-680	The Erlangen Spoken Dialogue System EVAR: A State-of-the-Art Information Retrieval System In this paper we present an overview of the spoken dialogue system EVAR that was developed at the University of Erlangen	AI	1
-682	Software Infrastructure for Ubiquitous Computing Environments: Supporting Synchronous Collaboration with Heterogeneous Devices In ubiquitous computing environments multiple users work with a wide range of different devices	HCI	4
-687	Optimizing Large Join Queries in Mediation Systems In data integration systems queries posed to a mediator need to be translated into a sequence of queries to the underlying data sources	DB	3
-691	Exploring Brick-Based Camera Control Introduction  BUILD-IT is a planning tool based on computer vision technology with a capacity for complex planning and composition tasks (Rauterberg et al	HCI	4
-693	Probabilistic Roadmap Methods are Embarrassingly Parallel In this paper we report on our experience parallelizing probabilistic roadmap motion planning methods (prms)	AI	5
-703	Named Entity Recognition from Diverse Text Types Current research in Information Extraction  tends to be focused on application-specific systems  tailored to a particular domain	IR	2
-706	End of First Year Report displays of information (graphs plots etc)	HCI	4
-707	Self-Supervised Learning for Visual Tracking and Recognition of Human Hand Due to the large variation and richness of visual inputs statistical learning gets more and more concerned in the practice of visual processing such as visual tracking and recognition	IR	2
-718	Real-Time Error in Location Modeling for Ubiquitous Computing No matter which technologies or techniques a ubiquitous location system  uses its measurements will have some amount of quantifiable error	HCI	4
-720	First-order expressivity for S5-models: modal vs two-sorted languages this paper we are going to prove some results on the expressive power of the standard first-order modal language by comparing it with its extensional counterpart	DB	3
-727	Real-Time American Sign Language Recognition Using Desk and Wearable Computer Based Video Hidden Markov models (HMM's) have been used prominently and successfully in speech recognition and more recently in handwriting recognition	HCI	4
-728	A Conceptual Annotation Approach to Indexing in a Web-Based Information System All the specialists have agreed that the possibility of adding to multimedia WWW objects some sort of `conceptual ' annotations describing their information content would greatly contribute to solve the problem of their `intelligent ' indexing and retrieval	IR	2
-731	Algorithms for Temporal Query Operators in XML Databases The contents of an XML database or XML/Web data warehouse is seldom static	DB	3
-736	Atomi - Automated Reconstruction Of Topographic Objects From Aerial Images Using Vectorized Map Information The project ATOMI is a co-operation between the Federal Office of Topography (L+T) and ETH Zurich	DB	3
-739	Boosting and Rocchio Applied to Text Filtering We discuss two learning algorithms for text filtering: modified Rocchio and a boosting algorithm called AdaBoost	IR	2
-746	Situated Computing: A Paradigm to Enhance the Mobile User's Interaction When people interact with computers they have to pay attention for things that are not related to the situation of the problems because the interfaces are not contextualized to their working environment	HCI	4
-751	On the Portability and Tuning of Supervised Word Sense Disambiguation Systems This report describes a set of experiments carried out to explore the portability of  alternative supervised Word Sense Disambiguation algorithms	ML	1
-757	Imitation and Mechanisms of Joint Attention: A Developmental Structure for Building Social Skills on a Humanoid Robot Abstract	AI	5
-759	Learning to Extract Symbolic Knowledge from the World Wide Web The World Wide Web is a vast source of information accessible to computers but understandable only to humans	IR	2
-762	The BubbleBadge: A Wearable Public Display We are exploring the design space of wearable computers by designing public wearable computer displays	HCI	4
-765	Virtual Keyboards This paper describes a novel scheme for vision-based human computer interaction in  which traditional input and output devices monitors keyboards and mice are replaced with  augmented reality displays projection systems and cameras	HCI	4
-773	Parameter-less Genetic Algorithm: A Worst-case Time and Space Complexity Analysis In this paper the worst-case analysis of the time and space complexity of the parameter-less genetic algorithm versus the genetic algorithm with an optimal population size is provided and the results of the analysis are discussed	ML	1
-774	The Repair of Speech Act Misunderstandings by Abductive Inference this paper we have concentrated on the repair of mis-understanding	Agents	0
-775	SENTINEL: A Multiple Engine Information Retrieval and Visualization System We describe a prototype Information Retrieval system SENTINEL under development at Harris Corporation's Information Systems Division	DB	4
-778	A Competitive Layer Model for Feature Binding and Sensory Segmentation We present a recurrent neural network for feature binding and sensory segmentation  the competitive layer model (CLM)	AI	5
-786	A Mutually Beneficial Integration of Data Mining and Information Extraction Text mining concerns applying data mining techniques to unstructured  text	ML	1
-794	Three New Algorithms for Projective Bundle Adjustment with Minimum Parameters Bundle adjustment is a technique used to compute the maximum likelihood estimate of structure and motion from image feature correspondences	AI	5
-796	Using Context as a Crystal Ball: Rewards and Pitfalls This paper discusses some of the potential rewards and pitfalls that can await designers wishing to incorporate context-awareness [Schilit94][Brown97] into interactive systems	HCI	4
-801	Knowledge-based Wrapper Generation by Using XML Information extraction is the process of recognizing  the particular fragments of a document that constitute  its core semantic content	IR	2
-803	Description Logics for Information Integration Information integration is the problem of combining the data residing at different heterogeneous sources and providing the user with a unified view of these data called mediated schema	DB	3
-804	Reaching for Objects in VR Displays: Lag and Frame Rate This article reports the results from three experimental studies of reaching behavior in a head-coupled stereo display system with a hand-tracking subsystem for object selection	HCI	4
-822	ADOME: An Advanced Object Modelling Environment ADOME ADvanced Object Modeling Environment an approach to integrating data and knowledge management based on object-oriented technology is presented	DB	3
-823	A Web Agent for the Maintenance of a Database of Academic Contacts this paper to present all details of the confidence rules for Academia however these are fully discussed in (Magnanelli 1997)	DB	3
-825	Information Retrieval on the World Wide Web and Active Logic: A Survey and Problem Definition As more information becomes available on the World Wide Web (there are currently over 4 billion pages covering most areas of human endeavor) it becomes more difficult to provide effective search tools for information access	IR	2
-834	Representation of Electronic Mail Filtering Profiles: A User Study Electronic mail offers the promise of rapid communication of essential information	IR	2
-840	Fuzzy Concepts and Formal Methods: A Fuzzy Logic Toolkit for Z It has been recognised that formal methods are useful as a modelling tool in requirements engineering	ML	1
-846	Feature Subset Selection in Text-Learning This paper describes several known and some new methods for feature subset selection on large text data	IR	2
-849	Mining Usability Information from Log Files: AMulti-Pronged Approach rooms is configurable by its occupants in how they organize various tools housing their data documents and graphics	HCI	4
-852	Constraints and Agents in MADEsmart As part of the DARPA Rapid Design Exploration and Optimization (RaDEO) program Boeing Philadelphia is involved in an on-going concurrent design engineering research project called MADEsmart which seeks to partially automate the Integrated Product Team (IPT) concept used by Boeing for organizing the design engineering process with the aid of intelligent agent technology	Agents	0
-865	Effective Site Finding using Link Anchor Information Link-based ranking methods have been described in the literature and applied in commercial Web search engines	IR	2
-871	Segment-Based Approach for Subsequence Searches in Sequence Databases This paper investigates the subsequence searching problem under time warping in sequence databases	DB	3
-877	Algorithms for Temporal Query Operators in XML Databases The contents of an XML database or XML/Web data warehouse is seldom static	DB	3
-887	Maximum Likelihood Estimation for Filtering Thresholds Information filtering systems based on statistical retrieval models usually compute a numeric score indicating how well each document matches each profile	IR	2
-895	A Cellular System for Pattern Recognition using Associative Neural Networks : A cellular system for pattern recognition is presented in this paper	ML	1
-897	TrIAs: Trainable Information Assistants for Cooperative Problem Solving Software agents are intended to perform certain tasks on behalf of their users	Agents	0
-903	Execution Monitoring of High-Level Robot Programs	AI	5
-904	Discovering Informative Content Blocks from Web Documents In this paper we propose a new approach to discover informative contents from a set of tabular documents (or Web pages) of a Web site	IR	2
-905	The Computational Theory of Neural Networks In the present paper a detailed taxonomy of neural network models with various restrictions is presented with respect to their computational properties	AI	5
-915	Formal ReSpecT Logic tuple centres have s own that logic-ba d languages can be eectively exploited not only for building individual agents and enabling interagent communication in multi-agent ssG ms butals for  ruli ng inter-agent communications as to builds cial behaviours In this paper we formally define the notion of logic tuple centre as well as the operationals emantics of the logic-bas d language ReSpecT for the behaviours pecification of logic tuple centres	Agents	0
-925	Versus: A Temporal Web Repository Web data warehouses are useful for applications that need to process  large amounts of Web data in a short time	DB	3
-926	Evolving Swimming Controllers for a Simulated Lamprey With Inspiration From Neurobiology This paper presents how neural swimming controllers for a simulated lamprey can be developed using evolutionary algorithms	ML	1
-947	Defining Views In An Image Database System : A view mechanism can help handle the complex semantics in emerging  application areas such as image databases	DB	3
-950	MIND: An architecture for multimedia information retrieval in federated digital libraries Introduction  Today people have routine access to a huge number of heterogeneous and distributed digital libraries	IR	2
-952	Dynamic Agent Discovery One of the issues that has gained importance in the real world  applications of agent systems is the bootstrapping of agents	Agents	0
-953	Mixtures of Linear Subspaces for Face Detection We present two methods using mixtures of linear subspaces for face detection in gray level images	ML	1
-957	More Than Just a Pretty Face: Affordances of Embodiment Prior research into embodied interface agents has found that users like them and find them engaging	HCI	0
-962	The CMUnited-97 Simulator Team	AI	5
-967	Logical Case Memory Systems: Foundations And Learning Issues The focus of this paper is on the introduction of a quite general type of case-based reasoning systems called logical case memory systems	ML	1
-972	Glove-TalkII: A neural network interface which maps gestures to parallel formant speech synthesizer controls Glove-TalkII is a system which translates hand gestures to speech through an adaptive interface	ML	4
-977	Word Sense Disambiguation And Its Application To Internet Search ambiguation method presented here is that it provides a ranking of possible associations between words senses rather than a binary yes/no decision for a possible sense combination	IR	2
-980	Automated Text Categorization Using Support Vector Machine In this paper we study the use of support vector machine in text categorization	ML	1
-982	Concept Hierarchy Based Text Database Categorization Document categorization as a technique to improve the retrieval of useful documents has been extensively investigated	IR	2
-986	A Comparative Study of Neural Network Based Feature Extraction Paradigms The projection maps and derived classification accuracies of a neural network (NN) implementation of Sammon's mapping an auto-associative NN (AANN) and a multilayer perceptron (MLP) feature extractor are compared with those of the conventional principal component analysis (PCA)	ML	1
-988	Kernel Expansions With Unlabeled Examples Modern classification applications necessitate supplementing the few available labeled examples with unlabeled examples to improve classification performance	IR	2
-989	NEXUS - Distributed Data Management Concepts for Location Aware Applications Nowadays mobile computers like subnotebooks or personal digital  assistants as well as cellular phones can not only communicate wirelessly but  they can also determine their position via appropriate sensors like DGPS	HCI	4
-993	Error-Correcting Output Coding for Text Classification This paper applies error-correcting output coding (ECOC) to the task of document categorization	IR	2
-999	A Survey of Methods for Scaling Up Inductive Algorithms	ML	1
-1002	Scalable Feature Selection Classification and Signature Generation for Organizing Large Text Databases Into Hierarchical Topic Taxonomies   We explore how to organize large text databases hierarchically by topic to aid better searching browsing and filtering	DB	3
-1003	OBPRM: An Obstacle-Based PRM for 3D Workspaces this paper we consider an obstacle-based prm	AI	5
-1006	DrawCAD: Using Deductive Object-Relational Databases in CAD Computer-Aided Design (CAD) involves the use of computers in the various stages of engineering design	DB	3
-1007	Minimization in Cooperative Response to Failing Database Queries When a query fails it is more cooperative to identify the cause of failure rather than just to report the empty answer set	IR	3
-1021	Intelligent Crawling on the World Wide Web with Arbitrary Predicates The enormous growth of the world wide web in recent years has made it important to perform resource discovery efficiently	IR	2
-1024	Tractable Query Answering in Indefinite Constraint Databases: Basic Results and Applications to Querying Spatiotemporal Information	DB	3
-1025	Generating Executing and Revising Schedules for Autonomous Robot Office Couriers Scheduling the tasks of an autonomous robot office courier and carrying out the scheduled tasks reliably and efficiently pose challenging problems for autonomous robot control	AI	0
-1027	Sensing Techniques for Mobile Interaction We describe sensing techniques motivated by unique aspects of human-computer interaction with handheld devices in mobile settings	HCI	4
-1031	Dynamic on-line clustering and state extraction: An approach to symbolic learning Researchers often try to understand the representations that develop in the hidden layers of a neural network during training	ML	1
-1035	Hive: Distributed Agents for Networking Things Hive is a distributed agents platform a decentralized system for building applications by networking local system resources	Agents	0
-1037	A Distributed Pi-Calculus with Local Areas of Communication This paper introduces a process calculus designed to capture the phenomenon of names which are known universally but always refer to local information	Agents	0
-1039	Crawling the Hidden Web Current-day crawlers retrieve content only from  the publicly indexable Web ie the set of Web  pages reachable purely by following hypertext  links ignoring search forms and pages that require  authorization or prior registration	IR	2
-1044	ITR: A Framework for Environment-Aware Massively Distributed Computing physical environment in real-time and the need to reason about emerging aggregate properties as opposed to individual component behavior	Agents	0
-1046	Analysis and extraction of useful information across networks of Web databases Contents 1 Introduction 2 2 Problem Statement 2 3 Literature Review 3 31 Retrieving Text	IR	2
-1047	The View Holder Approach: Utilizing Customized Materialized Views To Create Database Services Suitable For Mobile Database Applications among mobile devices (ie a laptop vs a pager) and the amount of information available from today's database environments and the Internet	DB	3
-1053	Ontobroker: How to make the WWW Intelligent	AI	5
-1063	Protein Structure Prediction With Evolutionary Algorithms Evolutionary algorithms have been successfully applied to a variety of molecular structure prediction problems	ML	1
-1064	Visual Exploration of Temporal Object Databases Two complementary families of users' tasks may be identified during database visualization: data  browsing and data analysis	DB	3
-1065	Towards a Layered Approach for Agent Infrastructure: The Right Tools for the Right Job It is clear by now that the take-up of agent technologies and the wide use of such technologies in open environments depends on the provision of appropriate infrastructure to support the rapid development of applications	Agents	0
-1066	Boosting Applied to Word Sense Disambiguation	ML	1
-1069	SimRank: A Measure of Structural-Context Similarity The problem of measuring similarity of objects arises in  many applications and many domain-specific measures  have been developed eg matching text across documents  or computing overlap among item-sets	IR	2
-1070	The THISL Broadcast News Retrieval System This paper described the THISL spoken document retrieval system for British and North American Broadcast News	IR	2
-1072	A String-based Model for Infinite Granularities (Extended Abstract) )  Jef Wijsen  Universit'e de Mons-Hainaut  JefWijsen@umhacbe  Abstract  In the last few years the concept of time granularity  has been defined by several researchers and a glossary  of time granularity concepts has been published	DB	3
-1076	A Multi-Agent Approach to Vehicle Monitoring in Motorway	Agents	0
-1084	WebAdapter: A prototype of a WWW-browser with new special needs adaptations	HCI	4
-1091	Exploiting Geographical Location Information of Web Pages Many information resources on the web are relevant primarily to limited geographical communities	IR	2
-1096	Filtering Algorithms and Implementation for Very Fast Publish/Subscribe Systems Publish/Subscribe is the paradigm in which users express long-term interests (subscriptions) and some agent publishes  events (eg oers)	DB	3
-1102	Adding Compression to Block Addressing Inverted Indexes	DB	3
-1113	An Architecture for Mobile BDI Agents BDI (Belief Desire Intention) is a mature and commonly adopted architecture for Intelligent Agents	Agents	0
-1114	PlanetP: Infrastructure Support for P2P Information Sharing Storage technology trends' are providing massive storage in extremely small packages while declining computing costs' are resulting in a rising number of devices' per person	IR	2
-1116	Design and Implementation of the ROL System ROL is a deductive object-oriented database system developed at the University of Regina	DB	3
-1120	STARTS: Stanford Proposal for Internet Meta-Searching Document sources are available everywhere both within the internal networks of organizations and on the Internet	IR	2
-1121	An Efficient Index Structure for OID Indexing in Parallel Temporal Object-Oriented Database Systems	DB	3
-1122	General Cost Functions for Support Vector Regression The concept of Support Vector Regression is extended to a more general class of convex cost functions	ML	1
-1123	A Voxel Based Representation for Evolutionary Shape Optimisation AND KEYWORDS PAGE  Title: A Voxel Based Representation for Evolutionary Shape  Optimisation  Abstract  A voxel-based shape representation when integrated with an evolutionary algorithm offers a number of potential advantage for shape optimisation	ML	1
-1126	Unsupervised Learning from Dyadic Data Dyadic data refers to a domain with two finite sets of objects in which observations are made for dyads ie pairs with one element from either set	ML	1
-1128	Towards Efficient Multi-Feature Queries in Heterogeneous Environments Applications like multimedia databases or enterprisewide information management systems have to meet the challenge of efficiently retrieving best matching objects from vast collections of data	IR	2
-1129	Spatial Agents Implemented in a Logical Expressible Language In this paper we present a multi-layered architecture  for spatial and temporal agents	Agents	0
-1138	Using Case-Based Reasoning for Supporting Continuous Improvement Processes The goal of the IPQM project -- a collaboration of the Fraunhofer Institute for Manufacturing Engineering and Automation (IPA) in Stuttgart and the Fraunhofer Institute for Experimental Software Engineering (IESE) in  Kaiserslautern -- is to develop a technical infrastructure to support continuous improvement processes	ML	1
-1141	Towards a Virtual Operating Environment - Exploring Immersive Virtual Interface Design Using a Simple VR Image Viewer This paper explores the virtual interface from a design perspective	HCI	4
-1142	Guided Crossover: A New Operator for Genetic Algorithm Based Optimization Genetic algorithms (GAs) have been extensively used in different domains as a means of doing global optimization in a simple yet reliable manner	ML	1
-1149	Engineering AgentSpeak(L): A Formal Computational Model Perhaps the most successful agent architectures and certainly the best known are those based on the Belief-Desire-Intention (BDI) framework	Agents	0
-1150	Monadic Queries over Tree-Structured Data Monadic query languages over trees currently receive considerable interest in the database community as the problem of selecting nodes from a tree is the most basic and widespread database query problem in the context of XML	IR	2
-1156	Smart-Its Friends: A Technique for Users to Easily Establish Connections between Smart Artefacts	HCI	4
-1160	Learning to Detect Salient Objects in Natural Scenes Using Visual Attention In the primate's visual system selective attention rapidly selects conspicuous image locations to be analyzed in more details	ML	1
-1181	Integrating Light-Weight Workflow Management Systems within Existing Business Environments Workflow management systems support the efficient largely au-  tomated execution of business processes	DB	3
-1184	Efficiently Ordering Query Plans for Data Integration interface to a multitude of data sources	DB	3
-1197	Simulating the Evolution of 2D Pattern Recognition on the CAM-Brain Machine an Evolvable Hardware Tool for Building a 75 Million Neuron Artificial Brain This paper presents some simulation results of the evolution of 2D visual pattern recognizers to be implemented  very shortly on real hardware namely the CAM-Brain Machine (CBM) an FPGA based piece of evolvable hardware  which implements a genetic algorithm (GA) to evolve a 3D cellular automata (CA) based neural network circuit  module of approximately 1000 neurons in about a second ie	ML	1
-1198	A New Research Tool for Intrinsic Hardware Evolution	AI	5
-1199	Genetic Algorithms Based Systems For Conceptual Engineering Design this paper we try to integrate methods of preferences and scenarios with Genetic Algorithms used to perform multi--objective optimisation	ML	1
-1203	Redundancy and Inconsistency Detection in Large and Semi-structured Case Bases With the dramatic proliferation of case based reasoning systems in commercial applications many case bases are now becoming legacy systems	ML	1
-1207	Towards a Network File System for Roaming Users Pervasive computing aims at offering access to user's data anytime anywhere in a transparent manner	HCI	4
-1213	Tumor Detection in Colonoscopic Images Using Hybrid Methods for on-Line Neural Network Training In this paper the effectiveness of a new Hybrid Evolutionary Algorithm in on-line Neural Network training for tumor detection is investigated	AI	5
-1220	FootNotes: Personal Reflections on the Development of Instrumented Dance Shoes and their Musical Applications This paper describes experiences in designing and developing an extremely  versatile multimodal sensor interface built entirely into a pair of shoes	HCI	4
-1221	Hierarchical Optimization of Policy-Coupled Semi-Markov Decision Processes One general strategy for approximately solving large Markov decision processes is divide-and-conquer: the original problem is decomposed into sub-problems which interact with each other but yet can be solved independently by taking into account the nature of the interaction	Agents	0
-1239	Adapting Hidden Markov Models for ASL Recognition by Using Three-dimensional Computer Vision Methods We present an approach to continuous American Sign Language (ASL) recognition which uses as input three-dimensional data of arm motions	HCI	4
-1249	Optimal Aggregation Algorithms for Middleware Assume that each object in a database has m grades or scores one for each of m attributes	ML	3
-1252	An Extensible Framework for Data Cleaning Data integration solutions dealing with large amounts of data have been strongly required in the last few years	DB	3
-1253	Circumventing Dynamic Modeling: Evaluation of the Error-State Kalman Filter applied to Mobile Robot Localization The mobile robot localization problem is treated as a two-stage iterative estimation process	AI	5
-1260	Agents That Reason and Negotiate By Arguing The need for negotiation in multi-agent systems stems from the requirement  for agents to solve the problems posed by their interdependence upon one another	Agents	0
-1268	Expert System for Automatic Analysis of Facial Expressions This paper discusses our expert system called Integrated System for Facial Expression Recognition (ISFER) which performs recognition and emotional classification of human facial expression from a still full-face image	AI	5
-1275	What Sort Of Control System Is Able To Have A Personality?	Agents	0
-1279	Naive Bayes and Exemplar-Based approaches to Word Sense Disambiguation Revisited	ML	1
-1296	Visual Ranking of Link Structures (Extended Abstract) Methods for ranking World Wide Web resources according to their position in the link structure of the Web are receiving considerable attention because they provide the first effective means for search engines to cope with the explosive growth and diversification of the Web	IR	2
-1300	Hierarchical Models for Screening of Iron Deficiency Anemia We investigate the problem of classifying individuals based on estimated density functions for each individual	ML	1
-1302	Topographic Maps Based on Kohonen Self Organizing Maps An Empirical Approach Two-dimensional maps are a valuable interface element for the visualization of information retrieval results or other large sets of objects	HCI	4
-1312	Incremental Document Clustering for Web Page Classification Motivated by the benefits in organizing the documents in Web search engines we  consider the problem of automatic Web page classification	IR	2
-1313	A Reliable Multicast Protocol for Distributed Mobile Systems: Design and Evaluation Abstract Reliable multicast is a powerful communication primitive for structuring distributed programs in which multiple processes must closely cooperate together	HCI	4
-1315	Discovering Seeds of New Interest Spread from Premature Pages Cited by Multiple Communities The World Wide Web is a great source of new topics significant  for trend birth and creation	IR	2
-1318	A Web Odyssey: from Codd to XML INTRODUCTION  The Web presents the database area with vast opportunities and commensurate challenges	DB	3
-1322	Tailoring the Interaction with Users in Web Stores	IR	2
-1327	The Infocockpit: Providing Location and Place to Aid Human Memory Our work focuses on building and evaluating computer system interfaces that make information memorable	HCI	4
-1330	Subpixel Localization and Uncertainty Estimation Using Occupancy Grids We describe techniques for performing mobile robot localization using occupancy grids that allow subpixel localization and uncertainty estimation in the pixelized pose space	AI	5
-1335	A Methodology for Using Intelligent Agents to provide Automated Intrusion Response This paper proposes a new methodology for adaptive automated intrusion response (IR) using software agents	AI	5
-1358	Social Mental Shaping: Modelling the Impact of Sociality on the Mental States of Autonomous Agents This paper presents a framework that captures how the social nature of agents that are situated in a multi-agent environment impacts upon their individual mental states	Agents	0
-1366	Enhancing Supervised Learning with Unlabeled Data In many practical learning scenarios there is  a small amount of labeled data along with  a large pool of unlabeled data	IR	2
-1373	Implementation and Performance Analysis of Incremental Equations of Nested Relations View materialization is an important way of improving the  performance of query processing	DB	3
-1374	ACIRD: Intelligent Internet Documents Organization and Retrieval This paper presents an intelligent Internet information system Automatic Classifier for the Internet Resource Discovery (ACIRD) which uses machine learning techniques to organize and retrieve Internet documents	IR	2
-1377	Evolving Personal Agent Environments To Reduce Internet Information Overload: Initial Considerations this paper we will address the other major information overload problem arising from habitual surfing	IR	2
-1381	An Automatic Closed-Loop Methodology for Generating Character Groundtruth for Scanned Documents Abstract—Character groundtruth for real scanned document images is crucial for evaluating the performance of OCR systems training OCR algorithms and validating document degradation models	DB	3
-1384	A Generalized Approach to Handling Parameter Interdependencies in Probabilistic Modeling and Reinforcement Learning Optimization Algorithms This paper generalizes our research on parameter interdependencies in reinforcement learning algorithms for optimization problem solving	ML	1
-1389	The Omnipresence of Case-Based Reasoning in Science and Application A surprisingly large number of research disciplines have contributed towards the development of knowledge on lazy problem solving which ischaracterized by its storage of ground cases and its demand driven response to queries	ML	1
-1391	AI in Medicine on its way from knowledge-intensive to data-intensive systems The last 20 years of research and development in the field of artificial intelligence in medicine show a path from knowledge-intensive systems which try to capture the essential knowledge of experts in a knowledge-based system to data-intensive systems available today	AI	5
-1397	A Learning Agent for Wireless News Access We describe a user interface for wireless information devices specifically designed to facilitate learning about users' individual interests in daily news stories	HCI	4
-1401	Mining High-Speed Data Streams Many organizations today have more than very large databases; they have databases that grow without limit at a rate of several million records per day	HCI	4
-1402	A Hybrid Architecture for Situated Learning of Reactive Sequential Decision Making In developing autonomous agents one usually emphasizes only (situated) procedural knowledge ignoring more explicit declarative knowledge	ML	1
-1404	Learning Visual Landmarks for Pose Estimation We present an approach to vision-based mobile robot localization even without an a-priori pose estimate	ML	1
-1406	Data Visualization Indexing and Mining Engine - A Parallel Computing Architecture for Information Processing Over the Internet ion : : : : : : : : : : : 9 32 Spatial Representation Of the System's Networks : : : : : : : : : : : : : : : : : : : : : : 10 33 Display And Interaction Mechanisms : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 11 331 Overviews orientation and network abstraction : : : : : : : : : : : : : : : : : : 11 332 Other Navigation And Orientation Tools : : : : : : : : : : : : : : : : : : : : : : : 12 333 Head-tracked Stereoscopic Display : : : : : : : : : : : : : : : : : : : : : : : : : : 12 4 Web Access of Geographic Information System Data 13  41 Functions Provided by GIS2WEB : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 13 42 Structure : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 14 5 ParaCrawler --- Parallel Web Searching With Machine Learning 15  51 A Machine Learning Approach Towards Web Searching : : : : : : : : : : : : : : : : : : 15 6 DUSIE --- Interactive Content-based Web Structuring 16  61 Creating t	IR	2
-1423	A Multi-Agent Architecture for an Intelligent Website in Insurance	Agents	0
-1427	Rivalry and Interference with a Head Mounted Display Perceptual factors that effect monocular transparent (aka see-thru) head  mounted displays include binocular rivalry visual interference and depth of focus	HCI	4
-1428	Automatic Landmark Selection for Navigation with Panoramic Vision The use of visual landmarks for robot navigation is a promising field	Agents	0
-1432	Server Selection on the World Wide Web We evaluate server selection methods in a Web environment modeling a digital library which makes use of existing Web search servers rather than building its own index	IR	2
-1434	Tracking in Unprepared Environments for Augmented Reality Systems Many Augmented Reality applications require accurate tracking	HCI	4
-1435	A Software Model and Specification Language for Non-WIMP User Interfaces We present a software model and language for describing and programming the fine-grained aspects of interaction in a non-WIMP user interface such as a virtual environment	HCI	4
-1454	Visual Interpretation of Hand Gestures for Human-Computer Interaction: A Review The use of hand gestures provides an attractive alternative to cumbersome interface devices for human-computer interaction (HCI)	HCI	4
-1455	RAW: A Relational Algebra for the Web The main idea underlying the paper is to extend the relational algebra such that it becomes possible to process queries against the World-Wide Web	IR	2
-1457	Reactive Tuple Spaces for Mobile Agent Coordination Mobile active computational entities introduce peculiar problems in the coordination of distributed application components	IR	0
-1462	Computationally Private Information Retrieval with Polylogarithmic Communication We present a single-database computationally private information retrieval scheme with polylogarithmic communication complexity	IR	2
-1465	User Modelling as an Aid for Human Web This paper explores how user modelling can work as an aid for human assistants in a user support system for web sites	IR	2
-1467	Speeding up Relational Reinforcement Learning Through the Use of an Incremental First Order Decision Tree Learner Relational reinforcement learning (RRL) is a learning technique  that combines standard reinforcement learning with inductive logic  programming to enable the learning system to exploit structural knowledge  about the application domain	ML	1
-1468	Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases Previous work on functional joins was constrained in two ways: (1) all approaches we know assume references being implemented as physical object identifiers (OIDs) and (2) most approaches are in addition limited to single-valued reference attributes	DB	3
-1477	The Chromatic Structure of Natural Scenes We applied Independent Component Analysis (ICA) to hyperspectral images in  order to learn an ecient representation of color in natural scenes	ML	1
-1483	Process- and Agent-Based Modelling Techniques for Dialogue Systems and Virtual Environments This text presents results of ongoing research which is aimed at developing a framework for developing multimodal natural language dialogue systems operating within virtual environments	HCI	4
-1487	General Principles Of Learning-Based Multi-Agent Systems We consider the problem of how to design large decentralized multi-agent systems (MAS’s) in an automated fashion with little or no hand-tuning	ML	1
-1504	Programmability of Intelligent Agent Avatars In this paper we propose an approach to the programmability of intelligent agent avatars supported by the distributed logic programming language DLP	Agents	0
-1513	Database Replication Using Epidemic Update Due to severe performance penalties associated with synchronous replication there is an increasing  interest in asynchronous replica management protocols in which database transactions are executed locally  and the effects of these transactions are incorporated asynchronously on remote database copies	DB	3
-1516	The Bivariate Marginal Distribution Algorithm The paper deals with the Bivariate Marginal Distribution Algorithm (BMDA)	ML	1
-1536	Cost-based Query Scrambling for Initial Delays Remote data access from disparate sources across a wide-area network such as the Internet is problematic due to the unpredictable nature of the communications medium and the lack of knowledge about the load and potential delays at remote sites	DB	3
-1538	Control States and Motivated Agency One of the challenges faced by researchers in the behaviour modelling of life-like  characters is the need to develop a systematic framework in which to ask  questions about the types of internal state life-like characters might possess and  how those different states interact	Agents	0
-1540	The influence of design techniques on user interfaces: the DigiStrips experiment for air traffic control Graphical user interfaces have limitations in terms of the information bandwidth they provide between users and systems	HCI	4
-1544	Learned Models for Continuous Planning We are interested in the nature of activity -- structured behavior of nontrivial duration -- in intelligent agents	AI	5
-1546	Adaptive Information Extraction and Sublanguage Analysis Introduction  1  Information extraction (IE) has made significant progress in the last decade	IR	2
-1548	A Behavioral Interface to Simulate Agent-Object Interactions in Real Time This paper shows a new approach to model and control interactive objects for simulations with virtual human  agents when real time interactivity is essential	Agents	0
-1551	Specifying Rational Agents with Statecharts and Utility Functions Abstract	Agents	0
-1558	Extending a Multi-Agent System for Genomic Annotation	IR	2
-1560	Reasoning with Examples: Propositional Formulae and Database Dependencies For humans looking at how concrete examples behave is an intuitive way of deriving conclusions	AI	5
-1562	A Novel User Interface for Group Collaboration Flexible user interfaces that can be customized to meet the needs of the task at hand are particularly important for real-time group collaboration	HCI	4
-1565	Optimal Camera Parameter Selection for State Estimation with Applications in Object Recognition In this paper we introduce a formalism for optimal camera parameter selection for iterative state estimation	ML	1
-1573	The CMUnited-98 Champion Small-Robot Team Abstract	AI	5
-1575	Relational Transducers for Electronic Commerce Electronic commerce is emerging as one of the major Websupported applications requiring database support	DB	3
-1590	MetaCost: A General Method for Making Classifiers Cost-Sensitive Research in machine learning statistics and related fields has produced a wide variety of algorithms for classification	ML	1
-1599	Administering Permissions for Distributed Data: Factoring and Automated Inference We extend SQL's grant/revoke model to handle all administration of permissions in a distributed database	DB	3
-1602	Querying Temporal Constraint Networks in PTIME We start with the assumption that temporal knowledge usually captured by constraint networks can be represented and queried more effectively by using the scheme of indefinite constraint databases proposed by Koubarakis	DB	3
-1607	Wearable Computing and the Remembrance Agent This paper gives an overview of the field of wearable computing	HCI	1
-1613	Combining the Self-Organizing Map and K-Means Clustering for On-line Classification of Sensor Data Many devices like mobile phones use contextual profiles like in the car or in a meeting to quickly switch between behaviors	HCI	4
-1617	Communicating Agents We study the problem of endowing logic-based agents that can reason about their own beliefs as well as the beliefs of other agents with communication skills	Agents	0
-1618	The Open Agent Architecture: A Framework for Building Distributed Software Systems The Open Agent Architecture (OAA) developed and used for several years at SRI International makes it possible for software services to be provided through the cooperative efforts of distributed collections of autonomous agents	HCI	4
-1622	Learning from History for Behavior-Based Mobile Robots in Non-Stationary Conditions	AI	5
-1624	The Persistent Cache: Improving OID Indexing in Temporal Object-Oriented Database Systems In a temporal OODB an OID index (OIDX) is needed to map from OID to the physical location of the object	DB	3
-1631	Using Multi-Strategy Learning to Improve Planning Efficiency and Quality	ML	1
-1635	Incremental Maintenance of Materialized OQL Views The importance of materialized views has grown significantly with the advent of data warehousing and OLAP technology	DB	3
-1644	Linkage Learning via Probabilistic Modeling in the ECGA The goal of linkage learning or building block identification is the creation of a more effective genetic algorithm (GA)	ML	1
-1648	Discovering Association Rules based on Image Content Our focus for data mining in this paper is concerned with knowledge discovery in image databases	ML	3
-1660	Temporal Aspects of Semistructured Data In many applications information about the history of data and their dynamic aspects are just as important as static information	DB	3
-1663	What can Knowledge Representation do for Semi-Structured Data?	AI	3
-1664	Moral Sentiments in Multi-Agent Systems We present a simulation of a society of agents where some  of them have moral sentiments towards the agents that belong to the  same social group using the Iterated Prisoner's Dilemma as a metaphor  for the social interactions	Agents	0
-1669	From Binary Temporal Relations to Non-Binary Ones and Back In this paper a new approach towards temporal reasoning is presented that scales up from the temporal relations commonly used in Allen's qualitative interval calculus and in quantitative temporal constraint satisfaction problems to include interval relations with distances temporal rules and other non-binary relations into the reasoning scheme	DB	3
-1680	An Agent-Based Framework for Financial Transactions Ever-changing Internet technologies are creating revolutions in the way people interact with each other	Agents	0
-1687	Battery-aware Static Scheduling for Distributed Real-time Embedded Systems This paper addresses battery-aware static scheduling in batterypowered  distributed real-time embedded systems	HCI	4
-1689	Limited Logical Belief Analysis	Agents	0
-1690	Exploiting Redundancy in Question Answering Our goal is to automatically answer brief factual questions of the form When was the Battle of Hastings?	IR	2
-1692	Exploiting Context to Make Delivered Information Relevant To Tasks and Users Building truly context-aware environments presents a greater challenge than using data transmitted by ubiquitous computing devices: it requires shared understanding between humans and their computational environments	HCI	4
-1694	Characterization and Parallelization of Decision Tree Induction This paper examines the performance and memory-access behavior of the C45 decision tree induction program a representative example of data mining applications for both uniprocessor and parallel implementations	DB	3
-1695	Reconciling Co-Operative Planning and Automated Co-Ordination in Multiagent Systems In the context of cooperative work the coordination of activities is provided essentially by two opposite classes of approaches based on the notion of situated action and planning	Agents	0
-1701	Materialized View Selection and Maintenance Using Multi-Query Optimization Materialized views have been found to be very effective at speeding up queries and are increasingly being supported by commercial databases and data warehouse systems	DB	3
-1702	Multi-faceted Insight through Interoperable Visual Information Analysis Paradigms To gain insight and understanding of complex information collections users must be able to visualize and explore many facets of the information	HCI	4
-1705	Managing Data Quality in Cooperative Information Systems (Extended Abstract) Massimo Mecella 1 Monica Scannapieco 1'2 Antonino Virgillito 1 Roberto  Baldoni I  Tiziana Catarci 1 and Carlo Batini 3  i Universirk di Roma La Sapienza  Dipartimento di Informatica e Sistemistica  {mecella monscan virgi baldoni catarci}dis	DB	3
-1711	Incremental Document Clustering for Web Page Classification Introduction  We consider document clustering for Web pages	IR	2
-1719	Tinmith-Metro: New Outdoor Techniques for Creating City Models with an Augmented Reality Wearable Computer This paper presents new techniques for capturing and viewing on site 3D graphical models for large outdoor objects	HCI	4
-1738	Multi-Agent Support for Internet-Scale Grid Management Internet-scale computational grids are emerging from various research projects	Agents	0
-1741	Learning Complex Patterns for Document Categorization Knowledge-based approaches to document categorization make use of well elaborated and powerful pattern languages for manual writing of classification rules	ML	1
-1748	Between Information and Communication: Middle Spaces in Computer Media for Learning In this paper we identify two categories of media that are common in computer-supported collaborative learning and software in general: communication media and information media	HCI	4
-1755	Finding Code on the World Wide Web: A Preliminary Investigation To find out what kind of design structures programmers really use we need to examine a wide variety of programs	IR	2
-1765	Efficient Learning of Reactive Robot Behaviors with a Neural-Q Learning Approach The purpose of this paper is to propose a Neural-Q_learning approach designed for online learning of simple and reactive robot behaviors	ML	1
-1768	Agent Oriented Specification for Patient-Scheduling Systems in Hospitals Introduction  Patient-scheduling in hospitals is a complex task which requires new computational methods eg	Agents	0
-1783	Theory of Neuromata A finite automaton --- the so-called neuromaton realized by a finite discrete recurrent neural network working in parallel computation mode is considered	ML	1
-1784	Inverted files and dynamic signature files for optimisation of Web Directories Web directories are taxonomies for the classification of Web documents	IR	2
-1795	On Maintaining Code Mobility We introduce the aspect of maintenance to code mobility with its major problem of keeping track of code migrating through computer networks	Agents	0
-1797	An Efficient Method for Performing Record Deletions and Updates Using Index Scans We present a method for efficiently performing deletions and updates of records when the records to be deleted or updated are chosen by a range scan on an index	DB	3
-1809	Bare-Hand Human-Computer Interaction In this paper we describe techniques for barehanded interaction between human and computer	HCI	4
-1824	A Content-Based Image Meta-Search Engine using Relevance Feedback Search engines are the most powerful resources for finding information on the rapidly expanding World-Wide Web	IR	2
-1844	Case-Based Learning Algorithms Abstract	ML	1
-1845	Secure Multi-agent Dynamic Programming based on Homomorphic Encryption and its Application to Combinatorial Auctions This paper presents a secure dynamic programming protocol that utilizes homomorphic encryption	Agents	0
-1847	Inducing Conceptual User Models Usually performance is the primary objective in systems that make use of user modeling (Um) techniques	IR	2
-1868	Attribute Grammars for Genetic Representations of Neural Networks and Syntactic Constraints of Genetic Programming context-free grammar augmented by the assignment of semantic attributes to the symbols of the grammar	ML	1
-1870	Co-operative Evaluation of a Desktop Virtual Reality System A summative usability evaluation of a desktop virtual reality (VR) system was developed and a preliminary study then conducted	HCI	4
-1871	Stochastic Attribute Selection Committees Classifier committee learning methods generate multiple classifiers to form a committee by repeated application of a single base learning algorithm	ML	1
-1879	A New Heuristic for Optimizing Large Queries There is a number of OODB optimization techniques proposed recently such as the translation of path expressions into joins and query unnesting that may generate a large number of implicit joins even for simple queries	DB	3
-1887	The Bayes Net Toolbox for MATLAB The Bayes Net Toolbox (BNT) is an open-source Matlab package for directed graphical models	AI	5
-1893	Event Composition in Time-dependent Distributed Systems Many interesting application systems ranging from workflow  management and CSCW to air traffic control are eventdriven  and time-dependent and must interact with heterogeneous  components in the real world	DB	3
-1895	General Query Expansion Techniques For Spoken Document Retrieval This paper presents some developments in query expansion and document representation of our Spoken Document Retrieval (SDR) system since the 1998 Text REtrieval Conference (TREC-7)	IR	2
-1898	Symbol Grounding: A New Look At An Old Idea Symbols should be grounded as has been argued before	ML	1
-1901	Using Category-Based Collaborative Filtering in the Active Webmuseum Collaborative filtering is an important technology for creating useradapting Web sites	IR	2
-1917	Consumer Eye Movement Patterns on Yellow Pages Advertising Process tracing data help understand how yellow pages advertisement characteristics influence consumer information processing behavior	HCI	4
-1922	Extending Multi-Agent Cooperation by Overhearing Much cooperation among humans happens following a common pattern:  by chance or deliberately a person overhears a conversation between  two or more parties and steps in to help for instance by suggesting answers  to questions by volunteering to perform actions by making observations  or adding information	Agents	0
-1926	Partial Models of Extended Generalized Logic Programs	DB	3
-1927	Spatio-Temporal Data Types: An Approach to Modeling and Querying Moving Objects in Databases Spatio-temporal databases deal with geometries changing over time	DB	3
-1938	A Gesture Based Interaction Technique for a Planning Tool for Construction and Design In this article we wish to show a method that goes beyond the established approaches of human-computer interaction	HCI	4
-1939	dlv { An Overview the Intelligent Grounding the Model Generator and the Model Checker	DB	3
-1943	A Perspective on Software Agents Research This paper sets out ambitiously to present a brief reappraisal of software agents research	Agents	0
-1947	The Order of Things: Activity-Centred Information Access This paper focuses on the representation and access of Web-based information and how to make such a representation adapt to the activities or interests of individuals within a community of users	IR	2
-1948	Dynamic CPU Scheduling with Imprecise Knowledge of Computation-Time : The majority of the studies conducted in scheduling real-time transactions mostly concentrate  on concurrency control protocols while overlooking the CPU as being the primary resource	DB	3
-1952	Assessing Software Libraries by Browsing Similar Classes Functions and Relationships Comparing and contrasting a set of software libraries is useful for reuse related activities such as selecting a library from among several candidates or porting an application from one library to another	IR	2
-1955	Improving the search on the Internet by using WordNet and lexical operators A vast amount of information is available on the Internet and naturally  many information gathering tools have been developed	IR	2
-1956	Efficient Mining of Partial Periodic Patterns in Time Series Database Partial periodicity search ie search for partial periodic patterns in time-series databases is an interesting data mining problem	ML	1
-1961	An Incremental Interpreter for High-Level Programs with Sensing Like classical planning the execution of high-level agent programs requires a reasoner to look all the way to a final goal state before even a single action can be taken in the world	Agents	5
-1976	World Wide Web Information Retrieval Using Web Connectivity Information Gathering processing and distributing information from the World Wide Web will be a vital technology for the next century	IR	2
-1985	Autonomous Cyber Agents: Rules For Collaboration A cyber agent is any program machine or person engaged in computer-enabled work	Agents	0
-1989	Enhancing the Sense of Other Learners in Student-Centred Web-Based Education Student-centred learning can be used in Web-courses to increase student activity motivation and commitment	ML	4
-1995	How Does the Observation Strategy Influence the Correctness of Alerting Services?	IR	3
-1997	Independent Component Analysis: A flexible non-linearity and decorrelating manifold approach Independent Components Analysis finds a linear transformation to variables which are maximally statistically independent	ML	1
-2005	Heuristic Evaluation of Groupware Based on the Mechanics of Collaboration	HCI	4
-2006	Discovering Comprehensible Classification Rules with a Genetic Algorithm This work presents a classification algorithm based on genetic algorithms (GAs) that discovers comprehensible IF-THEN rules in the spirit of data mining	ML	1
-2015	Improved Tracking of Multiple Humans with Trajectory Prediction and Occlusion Modeling A combined 2D 3D approach is presented that allows for robust tracking of moving bodies in a given environment as observed via a single uncalibrated video camera	AI	5
-2020	System And Software Visualisation If the entire of what many consider to be the software visualisation field is reviewed then this article would be much larger in size and also consist mainly of variations on the nodes and arcs theme	HCI	4
-2037	Evolution and Revolutions in LDAP Directory Caches	DB	3
-2045	Temporal Requirements for Anticipatory Reasoning about Intentional Dynamics in Social Contexts Abstract In this paper a temporal trace language is defined in which formulae can be expressed that provide an external temporal grounding of intentional notions	Agents	0
-2046	Data-Driven Theory Refinement Using KBDistAl Knowledge based artificial neural networks offer an attractive approach to extending or modifying incomplete knowledge bases or domain theories through a process of data-driven theory refinement	ML	1
-2060	DataBlitz Storage Manager: Main-Memory Database Performance for Critical Applications Introduction  General-purpose commercial disk-based database systems though widely employed in practice have failed to meet the performance requirements of applications requiring short predictable response times and extremely high throughput rates	DB	3
-2066	Embodied Evolution: Embodying an Evolutionary Algorithm in a Population of Robots We introduce Embodied Evolution (EE) as a methodology for the automatic design of robotic controllers	Agents	1
-2069	Whole-Hand and Speech Input in Virtual Environments Recent approaches to providing users with a more natural method of interacting with computer applications have shown that more than one mode of input can be both beneficial and intuitive as a communication medium between humans and computers	HCI	4
-2074	Validating Access to External Information Sources in a Mediator Environment A mediator integrates existing information sources into a new application	IR	2
-2076	A Comparison of Usage Evaluation and Inspection Methods for Assessing Groupware Usability Many researchers believe that groupware can only be evaluated by studying real collaborators in their real contexts a process that tends to be expensive and timeconsuming	HCI	4
-2086	The Importance of Being Mobile: Some Social Consequences of Wearable Augmented Reality Systems What are the consequences of mobility for augmented reality ?	HCI	4
-2090	Distance Browsing in Spatial Databases Two different techniques of browsing through a collection of spatial objects stored in an R-tree spatial data structure on the basis of their distances from an arbitrary spatial query object are compared	DB	3
-2099	The Security Architecture of the M&M Mobile Agent Framework In the Mobile Agent programming model small threads of execution migrate from machine to machine performing their operations locally	Agents	0
-2103	Non-Standard Crossover for a Standard Representation -- Commonality-Based Feature Subset Selection The Commonality-Based Crossover Framework has been presented as a general model for designing problem specific operators	ML	1
-2105	The 3W Model and Algebra for Unified Data Mining Real data mining/analysis applications call for a  framework which adequately supports knowledge  discovery as a multi-step process where the input  of one mining operation can be the output of another	DB	3
-2119	Situation Aware Computing with Wearable Computers 1 Motivation for contextual aware computing: For most computer systems even virtual reality systems sensing techniques are a means of getting input directly from the user	HCI	4
-2127	Plans as Situated Action: An Activity Theory Approach to Workflow Systems : Within the community of CSCW the notion and nature of workflow systems as prescriptions of human work has been debated and criticised	HCI	4
-2134	Cooperative Multiagent Robotic Systems Introduction  Teams of robotic systems at first glance might appear to be more trouble than they are worth	AI	5
-2137	First Steps Towards an Event-Based Infrastructure for Smart Things In this paper we examine requirements for an infrastructure that supports implementation and deployment of smart things in the real world	HCI	4
-2139	Query Optimization in the Presence of Limited Access Patterns 1 Introduction The goal of a query optimizer of a database system is to translate a declarative query expressed on a logical schema into an imperative query execution plan that accesses the physical storage of the data and applies a sequence of relational operators	DB	3
-2141	Revisiting Rationality for Agents With Intentions Formal frameworks for the specification of autonomous agents are commonly based on logics of intention and belief	Agents	0
-2144	Reasoning Agents In Dynamic Domains The paper discusses an architecture for intelligent agents based on the use of A-Prolog - a language of logic programs under the answer set semantics	Agents	0
-2146	Conflicts in a Simple Autonomy-Based Multi-Agent System This paper shows that in some situations conflict can deliberately be left in an autonomy-based multi-agent system	Agents	0
-2147	Reinventing the Familiar: Exploring an Augmented Reality Design Space for Air Traffic Control This paper describes our exploration of a design space for an augmented reality prototype	HCI	4
-2148	Towards Detection of Human Motion Detecting humans in images is a useful application of computer vision	ML	1
-2150	A Framework For Designing Modeling and Analyzing Agent Based Software Systems The agent paradigm is gaining popularity because it brings intelligence reasoning and autonomy to software systems	Agents	0
-2159	PKDD'98 Tutorial on Scalable High-Performance Data Mining with Parallel Processing Contents 1 Introduction 2 Overview of 7 different approaches for speeding up data mining in large databases 3 An overview of parallel processing for data mining 4 Parallel rule induction 5 Parallel Instance-Based Learning 6 Parallel Genetic Algorithms 7 Parallel Neural Networks 8 Conclusions  Introduction	ML	1
-2160	HEMASL: A Flexible Language to Specify Heterogeneous Agents In the realization of agent-based applications the developer generally needs to use heterogeneous agent architectures so that each application component can optimally perform its task	Agents	0
-2162	Developing Haptic and Visual Perceptual Categories for Reaching and Grasping with a Humanoid Robot Properties of the human embodiment -- sensorimotor apparatus and neurological structure -- participate directly in the growth and development of cognitive processes against enormous worst case complexity	ML	1
-2164	Prometheus: A Methodology for Developing Intelligent Agents Abstract	Agents	0
-2178	Using Web Structure for Classifying and Describing Web Pages The structure of the web is increasingly being used to improve organization search and analysis  of information on the web	IR	2
-2179	Co-clustering documents and words using Bipartite Spectral Graph Partitioning Both document clustering and word clustering are important and well-studied problems	IR	2
-2186	Twenty-One at TREC-7: Ad-hoc and Cross-language track This paper describes the official runs of the Twenty-One group for TREC-7	IR	2
-2191	Transforming Paper Documents into XML Format with WISDOM++ The transformation of scanned paper documents to a form suitable for an Internet browser is a complex process that requires solutions to several problems	IR	2
-2201	Adaptation and Plasticity of User Interfaces	HCI	4
-2202	Risk Management in Concurrent Engineering in Presence of Intelligent Agents Contents 1 Introduction 2 11 Objective	Agents	0
-2208	On Constructing the Right Sort of CBR Implementation Case based reasoning implementations as currently  constructed tend to t three general  models characterized by implementation constraints:   task-based task alone enterprise integrating  databases and web-based integrating  web representations	DB	3
-2210	Classifying Unseen Cases with Many Missing Values Handling missing attribute values is an important issue for classifier learning since missing attribute values in either training data or test (unseen) data affect the prediction accuracy of learned classifiers	ML	1
-2219	Adaptive Query Processing for Internet Applications As the area of data management for the Internet has gained in popularity recent work has focused on effectively dealing with unpredictable dynamic data volumes and transfer rates using adaptive query processing techniques	DB	3
-2225	Real-time Analysis of Data from Many Sensors with Neural Networks Much research has been conducted that uses sensorbased modules with dedicated software to automatically distinguish the user's situation or context	HCI	4
-2231	Vicious Strategies for Vickrey Auctions	Agents	0
-2235	Accessing Data Integration Systems through Conceptual Schemas Data integration systems provide access to a set of heterogeneous  autonomous data sources through a so-called global or mediated  view	DB	3
-2238	Soft Margins for AdaBoost Recently ensemble methods like AdaBoost have been applied successfully in many problems while seemingly defying the problems of overfitting	ML	1
-2241	Generic Agent Framework for Internet Information Systems For effective Internet database services it is essential that the information requirements of regular users can be met without the typical delays currently experienced using Internet browsers and the World Wide Web	DB	3
-2252	Model Generation without Normal Forms and Applications in Natural-Language Semantics	DB	3
-2256	Proposal Id: P480 Proposal for MPEG-7 Image Description Scheme Name: this document although any specific DDL selected by MPEG-7 can be used to serve the same purpose as well	IR	2
-2266	Intelligent Data Analysis in Medicine Extensive amounts of knowledge and data stored in medical databases require the  development of specialized tools for storing and accessing of data data analysis and effective  use of stored knowledge and data	AI	3
-2270	Bimodal System for Interactive Indexing and Retrieval of Pathology Images The prototype of a system to assist the physicians in differential diagnosis of lymphoproliferative disorders of blood cells from digitized specimens is presented	DB	3
-2276	Using the Resources Model in Virtual Environment Design this paper we take a step back from the formal specification of VEs to investigate where requirements and design information are located within these environments and how it can be structured and analysed	HCI	4
-2298	Learning in Case-Based Classification Algorithms While symbolic learning approaches encode the knowledge provided by the presentation of the cases explicitly into a symbolic representation of the concept  eg	ML	1
-2309	A Methodology for Agent-Oriented Analysis and Design	Agents	0
-2314	Exception Handling in Agent Systems A critical challenge to creating effective agent-based systems is allowing them to operate effectively when the operating environment is complex dynamic and error-prone	Agents	0
-2320	Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem The problem of merging multiple databases of information about common entities is frequently encountered in KDD and decision support applications in large commercial and government organizations	ML	1
-2327	Distributed Scheduling to Support a Call Centre: a Co-operative Multi-Agent Approach This paper introduces a multi-agent system architecture to increase the value of 24 hour a day call centre service	Agents	0
-2338	Formal Models and Decision Procedures for Multi-Agent Systems The study of computational agents capable of rational behaviour has received a great deal of attention in recent years	Agents	0
-2339	GripSee: A Gesture-controlled Robot for Object Perception and Manipulation We have designed a research platform for a perceptually guided robot which also serves as a demonstrator for a coming generation of service robots	Agents	0
-2344	Towards A Semantic Framework For Service Description The rapid development of the Internet and of distributed computing has led to a proliferation of online service providers such as digital libraries web information sources electronically requestable traditional services and even software-to-software services such as those provided by persistence and event managers	IR	2
-2348	Estimation of Rényi Information Divergence via Pruned Minimal Spanning Trees In this paper we develop robust estimators of the R enyi information divergence (I-divergence) given a reference distribution and a random sample from an unknown distribution	ML	1
-2351	Architecture and Implementation of a Java Package for Multiple Input Devices (MID) A major difficulty in writing Single Display Groupware (co-present collaborative) applications is getting input from multiple devices	HCI	4
-2355	Rewriting Logic: Roadmap and Bibliography Machine	Agents	0
-2362	Improving the Wang and Mendel's Fuzzy Rule Learning Method by Inducing Cooperation Among Rules Nowadays Linguistic Modeling (LM) is considered  to be one of the most important areas  of application for Fuzzy Logic	ML	1
-2364	BDI Agents: from Theory to Practice The study of computational agents capable of rational behaviour has received a great deal of attention in recent years	Agents	0
-2367	DAG Matching Techniques for Information Retrieval on Structured Documents With the establishment of international standards for document representation like SGML ODA or XML attention in Information Retrieval has shifted to representation models and query languages that make active use both of the logical structure and the contents of the documents in a document database	IR	2
-2375	Generating Code for Agent UML Sequence Diagrams For several years a new category of description techniques  exists: Agent UML [10] which is based on UML	Agents	0
-2377	Probabilistic Temporal Databases I: Algebra Dyreson and Snodgrass have drawn attention to the fact that in many temporal database applications  there is often uncertainty present about the start time of events the end time of events the duration of  events etc	DB	3
-2383	The S&sup2;-Tree: An Index Structure for Subsequence Matching of Spatial Objects We present the S²-Tree an indexing method for subsequence matching of spatial objects	DB	3
-2385	View Disassembly	DB	3
-2387	Discovery-driven Exploration of OLAP Data Cubes	DB	3
-2399	Tertiary Storage Organization for Large Multidimensional Datasets	DB	3
-2400	Reasoning About Intentions in Uncertain Domains The design of autonomous agents that are situated in real  world domains involves dealing with uncertainty in terms of dynamism  observability and non-determinism	Agents	0
-2403	Adaptive Navigation Support in Educational Hypermedia: the Role of Student Knowledge Level and the Case for Meta-Adaptation This paper provides a brief overview of main adaptive navigation support techniques and analyzes the results of most representative empirical studies of these techniques	HCI	4
-2405	Signer-independent Continuous Sign Language Recognition Based on SRN/HMM A divide-and-conquer approach is presented for signer-independent  continuous Chinese Sign Language(CSL) recognition in this paper	HCI	4
-2411	A Neural Network Diagnosis Model without Disorder Independence Assumption	ML	1
-2425	An Architecture for Outdoor Wearable Computers to Support Augmented Reality and Multimedia Applications This paper describes an architecture to support a hardware and software platform for research into the use of wearable computers and augmented reality in an outdoor environment	HCI	4
-2427	Term Selection for Filtering based on Distribution of Terms over Time In this article we investigate the use of time distributions in retrieval tasks	IR	2
-2429	Unbiased Evaluation of Retrieval Quality using Clickthrough Data This paper proposes a new method for evaluating the quality of retrieval functions	IR	2
-2430	Towards Automatic Discovery of Object Categories We propose a method to learn heterogeneous models of object classes for visual recognition	ML	1
-2431	A Scalable Integrated Region-Based Image Retrieval System Statistical clustering is critical in designing scalable image retrieval systems	IR	2
-2436	HyperQueries: Dynamic Distributed Query Processing on the Internet In this paper we propose a new framework for  dynamic distributed query processing based  on so-called HyperQueries which are essentially  query evaluation sub-plans sitting behind   hyperlinks	DB	3
-2446	The Use of Classifiers in Sequential Inference We study the problem of combining the outcomes of several different  classifiers in a way that provides a coherent inference that satisfies some  constraints	IR	2
-2450	Optimal Design of Neural Nets Using Hybrid Algorithms Selection of the topology of a network and correct parameters for the  learning algorithm is a tedious task for designing an optimal Artificial Neural  Network (ANN) which is smaller faster and with a better generalization  performance	AI	5
-2453	Evaluating Top-k Queries over Web-Accessible Databases A query to a web search engine usually consists of a list of keywords to which the search engine responds with the best or “top ” k pages for the query	DB	3
-2461	Towards a Comprehensive Topic Hierarchy for News To date a comprehensive Yahoo-like hierarchy of topics has yet to be offered for the domain of news	AI	5
-2462	Jacob project - Documentation The Jacob software system has been built as part of the Jacob project which is a pilot project of the Virtual Reality Valley Twente initiative	HCI	4
-2470	An Instructor's Assistant for Team-Training in Dynamic Multi-agent Virtual Worlds	Agents	0
-2474	Boosting Image Retrieval We present an approach for image retrieval using a very large number of highly selective features and efficient online learning	ML	2
-2475	An Efficient Boosting Algorithm for Combining Preferences We study the problem of learning to accurately rank a set of objects by combining a given collection  of ranking or preference functions	IR	2
-2477	Context Filters for Document-Based Information Filtering In this paper we propose a keyPhrase-sense disambiguation methodology called context filters for use in keyPhrase based information filtering systems	IR	2
-2495	Facilitating Hard Active Database Applications Machine Interface 26 323 Concurrency Control 27 33 VENUSDB LANGUAGE SEMANTICS: AN EVALUATION  28 331 Related Work 30 332 The Mortgage Pool Allocation Problem  33 333 Quantitative Results  37 334 Discussion and Conclusions  43  CHAPTER 4 APPLICATION SEMANTICS FOR ACTIVE LOG MONITORING  APPLICATIONS 45  41 MOTIVATION  46 411 Coupling Modes 47 412 Example 1  48 42 BACKGROUND 50 421 LMAs Datalog and Confluence  50 422 Previous Work	AI	3
-2496	A hybrid projection based and radial basis function architecture: Initial values and global optimization We introduce a hybrid architecture of projection based units and radial basis functions  as a general function estimation scheme	AI	5
-2503	The Anatomy of a Large-Scale Hypertextual Web Search Engine In this paper we present Google a prototype of a large-scale search engine which makes heavy use of the structure present in hypertext	IR	2
-2506	Automatic Reclustering of Objects in Very Large Databases for High Energy Physics In the very large object database systems planned for some future particle physics experiments typical physics analysis jobs will traverse millions of read-only objects many more objects than fit in the database cache	DB	3
-2510	OZONE: A Zoomable Interface for Navigating Ontology Information We present OZONE (Zoomable Ontology Navigator) for searching and browsing ontological  information	HCI	4
-2516	Efficient Bulk Operations on Dynamic R-trees  In recent years there has been an upsurge of interest in spatial databases	DB	3
-2521	A Survey of Factory Control Algorithms which Can be Implemented in a Multi-Agent Heterarchy: Dispatching Scheduling and Pull This paper has not seriously addressed the question of what new algorithms are inspired by the multi-agent heterarchical paradigm except in two cases	Agents	0
-2523	Shock Graphs and Shape Matching We have been developing a theory for the generic representation of 2-D shape where structural descriptions are derived from the shocks (singularities) of a curve evolution process acting on bounding contours	ML	1
-2526	Making Context Explicit in Communicating Objects INTRODUCTION  One can speak about context only with reference to something (no definition of context out of context): the context of an object the context of interaction the context of a problem solving etc	HCI	4
-2531	ISocRob - Intelligent Society of Robots Abstract	Agents	0
-2534	Bringing People and Places Together with Dual Augmentation This paper describes initial work on the Domisilica project at Georgia Tech	ML	1
-2543	Broadcasting Consistent Data to Read-Only Transactions from Mobile Clients In this paper we study the data inconsistency problem in data broadcast to mobile transactions	HCI	4
-2545	Computing the Entropy of User Navigation in the Web Navigation through the web colloquially known as “surfing” is one of the main activities of users during web interaction	IR	2
-2546	On Building Flexible Agents	Agents	0
-2567	Rotating Virtual Objects with Real Handles Times for virtual object rotations reported in the literature are of the order of ten seconds or more and this is far longer than it takes to manually orient a real object such as a cup	HCI	4
-2568	Exploring auction-based leveled-commitment contracting - Part III: Vickrey-type auctioning A key problem addressed in the area of multiagent systems is the automated  assignment of multiple tasks to executing agents	Agents	0
-2580	Document Categorization and Query Generation on the World Wide Web Using WebACE We present WebACE an agent for exploring and categorizing documents on the World Wide Web based on a user profile	IR	2
-2581	Improving Performance Of Case-Based Classification Using Context-Based Relevance Classification involves associating instances with particular classes by maximizing intra-class similarities and minimizing inter-class similarities	ML	1
-2584	A Hybrid Model For Sharing Information Between Fuzzy Uncertain And Default Reasoning Models In Multi-Agent Systems This paper develops a hybrid model which provides a unified framework for the fol-  lowing four kinds of reasoning: 1) Zadeh's fuzzy approximate reasoning; 2) truthqualification  uncertain reasoning with respect to fuzzy propositions; 3) fuzzy default  reasoning (proposed in this paper as an extension of Reiter's default reasoning); and 4)  truth-qualification uncertain default reasoning associated with fuzzy statements (developed  in this paper to enrich fuzzy default reasoning with uncertain information)	AI	5
-2591	Case-Based BDI Agents: an Effective Approach for Intelligent Search on the World Wide Web We present a simple randomized algorithm which solves linear programs with n constraints and d variables in expected minfO(d  2  2  d  n); e  2  p  d ln(n=  p  d )+O(  p  d+ln n)  g  time in the unit cost model (where we count the number of arithmetic operations on the numbers in the input); to be precise the algorithm computes the lexicographically smallest nonnegative point satisfying n given linear inequalities in d variables	Agents	0
-2593	Agent Factory: Generative Migration of Mobile Agents in Heterogeneous Environments In most of today's agent systems migration of agents requires homogeneity in the programming language and/or agent platform in which an agent has been designed	Agents	0
-2597	A Comparative Study on Chinese Text Categorization Methods This paper reports our comparative evaluation of three machine learning methods on Chinese text categorization	IR	2
-2600	On the Integration of IR and Databases : Integration of information retrieval (IR) in database management  systems (DBMSs) has proven dicult	DB	3
-2607	Minimal Simulations For Evolutionary Robotics this paper the line is drawn between controller and environment	ML	1
-2615	Managing Periodically Updated Data in Relational Databases: A Stochastic Modeling Approach Recent trends in information management involve the periodic transcription  of data onto secondary devices in a networked environment and the proper  scheduling of these transcriptions is critical for efficient data management	IR	3
-2618	Overview of Datalog Extensions with Tuples and Sets Datalog (with negation) is the most powerful query language for relational database with a well-defined declarative semantics based on the work in logic programming	DB	3
-2628	Towards a Distributed Environment-Centered Agent Framework	Agents	0
-2632	Representing and Querying Changes in Semistructured Data Semistructured data may be irregular and incomplete and does not necessarily conform to a fixed schema	DB	3
-2634	Heterogeneity in the Coevolved Behaviors of Mobile Robots: The Emergence of Specialists Many mobile robot tasks can be most efficiently  solved when a group of robots is utilized	ML	1
-2642	Evaluating Look-to-Talk: A Gaze-Aware Interface in a Collaborative Environment We present “look-to-talk” a gaze-aware interface for directing a spoken utterance to a software agent in a multiuser collaborative environment	HCI	4
-2646	Market Clearability Market mechanisms play a central role in AI as a  coordination tool in multiagent systems and as an  application area for algorithm design	Agents	0
-2659	UML for Behavior-Oriented Multi-Agent Simulations Developing multi-agent simulations seems to be rather straight  forward as active entities in the original correspond to active agents in  the model	Agents	0
-2660	Node Similarity in Networked Information Spaces Netvorked information spaces contain information entities corresponding to nodes vhich  are (:orlrle(:led [)y associmi(ms (:or'r'esporldirlg 1o links irl (he nelwor'k	IR	2
-2663	An Evaluation of Statistical Approaches to Text Categorization Abstract	IR	2
-2666	Semantic Web Services hose properties capabilities  interfaces and effects are encoded in an unambiguous  machine-understandable form	IR	2
-2667	Secure Meeting Scheduling with Agenta When people want to schedule a meeting the agendas of the participants must be compared to nd a time suitable for all of them	Agents	0
-2669	A Framework for Linking Distributed Simulations Using Software Agents This paper presents the basic ideas behind the use of software agent technology for distributed simulation and data assimilation	Agents	0
-2670	ScholOnto: An Ontology-Based Digital Library Server for Research Documents and Discourse	IR	2
-2675	Learning Similarity for Texture Image Retrieval A novel algorithm is proposed to learn pattern similarities for texture image retrieval	IR	2
-2680	Distributional Clustering of Words for Text Classification This paper applies Distributional Clustering (Pereira  et al	ML	1
-2684	Adapting the Locales Framework for Heuristic Evaluation of Groupware Heuristic evaluation is a rapid cheap and effective way for identifying usability problems in single user systems	HCI	4
-2698	Integrating a Modern Knowledge-Based System Architecture with a Legacy VA Database: The ATHENA and EON Projects at Stanford ion  Output:  Guideline-Based  Treatment Advice  Guideline  KB Server:  Protg PSM  Guideline  Interpreter:  EON/PCA PSM  Guideline-Based  Quality Assessment:  MedCritic PSM  VA  Medical  Record:  VISTA/  DHCP  EndUser  GUI  (CPRS)  EndUser  GUI  (CPRS)  Legacy  Database  Mediator:  Athenaeum  PSM  Output:  Assessment of  Physician Actions  Tzolkin  DBMS PSM  Temporal  Abstraction  Tzolkin  DBMS PSM  Temporal  Abstraction  Output:  Guideline-Based  Treatment Advice  Figure 1 ATHENA system incorporating the EON architecture for component-based decision-support	DB	3
-2701	Rank Aggregation Methods for the Web We consider the problem of combining ranking results from various sources	IR	2
-2706	The Interoperability Problem: Bringing together Mobile Agents and Agent Communication Languages Interoperability is a central issue for both the mobile agents community and the wider agents community	Agents	0
-2721	Models for Information Integration: Turning Local-as-View Into Global-as-View There are basically two approaches for designing a data integration system	DB	3
-2724	Beyond Eigenfaces: Probabilistic Matching for Face Recognition We propose a novel technique for direct visual matching of images for the purposes of face recognition and database search	DB	3
-2725	Quasi-Stable Semantics of Logic Programs this paper we introduce a new semantic theory for logic programs	DB	3
-2730	Optimizing Search by Showing Results In Context We developed and evaluated seven interfaces for integrating semantic category information with Web search results	IR	2
-2732	Autoepistemic Logic of Knowledge and Beliefs In recent years various formalizations of non-monotonic reasoning and different semantics for normal and disjunctive logic programs have been proposed including autoepistemic logic circumscription CWA GCWA ECWA epistemic specifications stable well-founded stationary and static semantics of normal and disjunctive logic programs	AI	5
-2746	Logic-Based User-Defined Aggregates for the Next Generation of Database Systems this paper we provide logic-based foundations for the extended aggregate constructs required by advanced database applications	DB	3
-2752	Direct Policy Search using Paired Statistical Tests Direct policy search is a practical way to solve reinforcement learning problems involving continuous state and action spaces	ML	1
-2757	Towards Lifetime Maintenance of Case Base Indexes for Continual Case Based Reasoning Abstract	ML	1
-2758	Hybrid Tracking for Augmented Reality	HCI	4
-2760	Web Log Data Warehousing and Mining for Intelligent Web Caching We introduce intelligent web caching algorithms that employ predictive models of web requests; the general idea is to extend the LRU policy of web and proxy servers by making it sensible to web access models extracted from web log data using data mining techniques	DB	3
-2773	Experiences in the use of Mobile Agents for developing distributed applications Introduction  The recent development of telecommunication networks has contributed to the success of distributed systems and has stimulated the research for a new generation of applications such as the access to remote databases the Web and e-commerce	Agents	0
-2774	Optimizing Search Engines using Clickthrough Data This paper presents an approach to automatically optimizing the retrieval quality of search engines using clickthrough data	IR	2
-2784	OMS Rapid Prototyping System for the Development of Object-Oriented Database Application Systems We present an object-oriented data model and system that supports the development of database application systems through a combination of rapid prototyping and refinement	DB	3
-2791	Augmenting Buildings with Infrared Information We describe a building information and navigation system based on Palm Pilot PDAs and a set of strong infrared transmitters located throughout a building	HCI	4
-2792	Rule Discovery From Time Series We consider the problem of finding rules relating patterns  in a time series to other patterns in that series  or patterns in one series to patterns in another series	ML	1
-2800	A Theory of Proximity Based Clustering: Structure Detection by Optimization In this paper a systematic optimization approach for clustering proximity or similarity data is developed	IR	1
-2812	A Cubist approach to Object Recognition We describe an appearance-based object recognition system using a keyed multi-level context representation reminiscent of certain aspects of cubist art	DB	3
-2818	Query Processing in a Device Database System Data Types Today's object-relational and object-oriented databases support Abstract Data Type (ADT) objects that are single attribute values encapsulating a collection of related data	DB	3
-2820	Evaluation of Eye Gaze Interaction Eye gaze interaction can provide a convenient and natural addition to user-computer dialogues	HCI	4
-2834	Rule Induction of Computer Events Introduction  Monitoring systems are able to capture an assortment of different events from a network environment	ML	1
-2838	An Adaptive and Distributed Framework for Advanced IR It has been often noticed that modern IR ((Gregory 1991) (Alan 1991)) should exhibit capabilities that are sensitive to the document content integrate interactivity multimodality and multilinguality over a large scale and support the very dynamic nature of the current needs for information access (so to be adaptable to chanes of the sources language and content/style)	IR	2
-2839	Fast Supervised Dimensionality Reduction Algorithm with Applications to Document Categorization & Retrieval Retrieval techniques based on dimensionality reduction such as Latent Semantic Indexing (LSI) have been shown to improve the quality of the information being retrieved by capturing the latent meaning of the words present in the documents	IR	2
-2848	Querying XML Documents in Xyleme this paper on query processing	DB	3
-2851	Generating User Interface Code in a Model Based User Interface Development Environment Declarative models play an important role in most software design activities by allowing designs to be constructed that selectively abstract over complex implementation details	HCI	4
-2855	The Well Mannered Wearable Computer In this paper we describe continuing work being carried out as part of the Bristol Wearable Computing Initiative	HCI	4
-2876	On Bounding-Schemas for LDAP Directories	DB	3
-2879	Constructive Biology and Approaches to Temporal Grounding in Post-Reactive Robotics Constructive Biology (as opposed to descriptive biology) means understanding biological mechanisms through building systems that exhibit life-like properties	Agents	0
-2884	Decidable Fragments of First-Order Modal Logics The paper considers the set ML1 of first-order polymodal formulas the modal operators in which can be applied to subformulas of at most one free variable	DB	3
-2894	Agent Virtual Organizations within the Framework of Network Computing: a case study We study the concept of agent virtual organization and show how it relates to the paradigm of Network Based Computing [28]	Agents	0
-2901	How to Write F-Logic Programs in FLORID - A Tutorial for the Database Language F-Logic CONTENTS 2 Contents  1 Introduction 4 2 A First Example 4 3 Objects and their Properties 6 31 Object Names and Variable Names	DB	3
-2902	Compositional Design and Maintenance of Broker Agents A generic broker agent architecture is introduced designed in a principled manner using the compositional development method for multi-agent systems DESIRE	Agents	0
-2904	EMP - A Database-Driven Electronic Market Place for Business-to-Business Commerce on the Internet Electronic commerce systems for business-to-business commerce on the Internet are still in their infancy	DB	3
-2910	Quilt: An XML Query Language for Heterogeneous Data Sources The World Wide Web promises to transform human society by making virtually all types of information instantly available everywhere	DB	3
-2917	A Suite of Database Replication Protocols based on Group Communication Primitives This paper proposes a family of replication protocols based on group communication in order to address some of the concerns expressed by database designers regarding existing replication solutions	DB	3
-2922	Towards Agent-Oriented Information Systems This paper reviews several relevant agent concepts developed in the intelligent agents and multiagent systems area and makes suggestions how to extend current IS technology on the basis of these concepts	Agents	0
-2923	Evaluating the Novelty of Text-Mined Rules Using Lexical Knowledge A data-mining system may discover a large body of rules; however relatively few of these may convey useful new knowledge to the user	IR	2
-2924	Creating Creativity for Everyone: User Interfaces for Supporting Innovation :  A challenge for human-computer interaction researchers and user interface designers is to construct information technologies that support creativity	HCI	4
-2929	Workshop on Intelligent Information Integration (III'99)	IR	2
-2942	Experiences Developing a Thin-Client Multi-Device Travel Planning Application Many applications now require access from diverse humancomputer interaction devices such as desktop computers web browsers PDAs mobile phones pagers and so on	HCI	4
-2943	MindReader: Querying databases through multiple examples Users often can not easily express their queries	DB	3
-2948	Automated Derivation of Complex Agent Architectures from Analysis Specifications Multiagent systems have been touted as a way to meet the need for distributed software systems that must operate in dynamic and complex environments	Agents	0
-2958	Towards a Cost Model for Distributed and Replicated Data Stores Large Petabyte-scale data stores need detailed design considerations about distributing and replicating particular parts of the data store in a cost-effective way	DB	3
-2964	Mobile Agent-based Compound Documents This paper presents a mobile agent-based framework for building mobile compound document which can each be dynamically composed of mobile agents and can migrate itself over a network as a whole with all its embedded agents	Agents	0
-2965	Efficient Data Mining for Path Traversal Patterns Abstract—In this paper we explore a new data mining capability that involves mining path traversal patterns in a distributed information-providing environment where documents or objects are linked together to facilitate interactive access	ML	1
-2968	Capturing Knowledge of User Preferences: Ontologies in Recommender Systems Tools for filtering the World Wide Web exist but they are hampered by the difficulty of capturing user preferences in such a dynamic environment	IR	2
-2969	Secret Computation with Secrets for Mobile Agent using One-time Proxy Signature As an application for electronic commerce a mobile agent is now used to search for special products or services and is executed for a specific job designated by a customer in the server's environment on behalf of a customer	Agents	0
-2973	A Novel Server Selection Technique for Improving the Response Time of a Replicated Service Server replication is an approach often used to improve the ability of a service to handle a large number of clients	DB	3
-2977	Weak Consistency in Distributed Data Warehouses We propose and analyze a novel multiple-view model of a distributed data warehouse	DB	3
-2980	Knowing What to Imitate and Knowing When You Succeed If we are to build robots that can imitate the actions of a human instructor the robotics community must address a variety  of issues	ML	1
-2985	An Agent-Based Approach to Distributed Simulation Distributed Prototyping and Software Integration Due to nowadays huge availability of data and software a software developer must be able  not only to invent good algorithms and implement them efficiently but also to assemble existing  components to create timely and economically a new application	Agents	0
-2986	Learning to Predict Rare Events in Event Sequences Learning to predict rare events from sequences of events with categorical features is an important real-world problem that existing statistical and machine learning methods are not well suited to solve	ML	1
-2988	Close Encounters: Supporting Mobile Collaboration through Interchange of User Profiles	HCI	4
-2992	Animated Agents for Procedural Training in Virtual Reality: Perception Cognition and Motor Control This paper describes Steve an animated agent that helps students learn to perform physical procedural tasks	Agents	0
-2996	The Shopping Jacket: Wearable Computing for the Consumer	HCI	4
-3000	An Agent-based Petri Net Model with Application to Seller/Buyer Design in Electronic Commerce Agents are becoming one of the most important topics in distributed and autonomous decentralized systems (ADS) and there are increasing attempts to use agent technologies to develop software systems in electronic commerce	Agents	0
-3001	Essex Wizards'99 Team Description : This paper describes the Essex Wizards team participated in the  RoboCup'99 simulator league	Agents	0
-3012	Adaptive Combination of Behaviors in an Agent rchical structures [PS97]	ML	1
-3015	Learning Behavioral Parameterization Using Spatio-Temporal Case-Based Reasoning This paper presents an approach to learning an optimal behavioral parameterization in the framework of a Case-Based Reasoning methodology for autonomous navigation tasks	ML	1
-3018	Extreme Programming of Multi-Agent Systems The complexity of communication scenarios between agents make multi-agent systems difficult to build	Agents	0
-3020	A Multi-Plane State Machine Agent Model This paper presents a framework for implementing collaborative network agents	Agents	0
-3022	A Plan Based Agent Architecture for Interpreting Natural Language Dialogue This paper describes a plan-based agent architecture for modeling NL cooperative dialogue; in particular the paper focuses on the interpretation dialogue and explanation of its coherence by means of the recognition of the speakers' underlying intentions	Agents	0
-3024	Querying Network Directories Hierarchically structured directories have recently proliferated with the growth of the Internet and are being used to store not only address books and contact information for people but also personal pro les network resource information and network and service policies	DB	3
-3025	Machine Learning and Knowledge Representation in the LaboUr Approach to User Modeling	IR	2
-3030	Desires and Defaults: A Framework for Planning with Inferred Goals This paper develops a formalism designed to integrate reasoning about desires with planning	Agents	0
-3041	Learning Decision Trees for Loss Minimization in Multi-Class Problems Many machine learning applications require classifiers that minimize an asymmetric loss function rather than the raw misclassification rate	ML	1
-3043	Cyclic Association Rules We study the problem of discovering association rules that display regular cyclic variation over time	DB	3
-3051	Implicit Interest Indicators Recommender systems provide personalized suggestions about  items that users will find interesting	IR	2
-3052	A Model of Collision Perception for Real-Time Animation A model of human visual perception of collisions is presented based on twodimensional measures of eccentricity and separation	HCI	4
-3061	Analyzing Web Robots and Their Impact on Caching Understanding the nature and the characteristics of Web robots is an essential step to analyze their impact on caching	IR	2
-3063	Self Bounding Learning Algorithms Most of the work which attempts to give bounds on the generalization error of the hypothesis generated by a learning algorithm is based on methods from the theory of uniform convergence	ML	1
-3064	Multifaceted Object Modeling with Roles: A Comprehensive Approach In conventional object-oriented (O-O) database systems it is assumed silently that fundamental object types and inter-object relationships can be classfied statically prescribing basic structural and behavioral properties for all the objects in the database	DB	3
-3074	Constrained Genetic Algorithms and their Applications in Nonlinear Constrained Optimization This chapter presents a framework that unifies various search mechanisms for solving constrained nonlinear programming (NLP) problems	AI	5
-3077	Efficient Identification of Web Communities We dene a community on the web as a set of sites that have more links (in either direction) to members of the community than to non-members	IR	2
-3084	Barrier Trees of Degenerate Landscapes The heights of energy barriers separating two (macro-)states are useful for estimating transition frequencies	AI	5
-3085	The Diagnosis Frontend of the dlv System This paper presents the Diagnosis Frontend of dlv which is a knowledge representation system under development at the Technische Universität Wien	AI	5
-3088	Providing Integrated Toolkit-Level Support for Ambiguity in Recognition-Based Interfaces Recognition technologies are being used extensively in both the commercial and research worlds	HCI	4
-3089	D'Agents: Applications and Performance of a Mobile-Agent System D'Agents is a general-purpose mobile-agent system that has been used in several informationretrieval  applications	Agents	0
-3090	C4-1: Building a community hierarchy for the Web based on Bipartite Graphs In this paper we propose an approach to extract and relate the communities by considering a community signature as a group of content creators that manifests itself as a set of interlinked pages	IR	2
-3098	Adaptive information extraction: Core technologies for information agents Introduction  For the purposes of this chapter an information agent can be described as a distributed system that receives a goal through its user interface gathers information relevant to this goal from a variety of sources processes this content as appropriate and delivers the results to the users	IR	2
-3109	Digital City Kyoto: Towards A Social Information Infrastructure	Agents	4
-3115	Less is More: Active Learning with Support Vector Machines We describe a simple active learning heuristic  which greatly enhances the generalization behavior  of support vector machines (SVMs) on several  practical document classification tasks	IR	2
-3121	Better Living Through Geometry Mark Weiser described ubiquitous computing as “invisible everywhere computing that does not live on a personal device of any sort but is in the woodwork everywhere”[4] The EasyLiving project[1] is concerned with development of an architecture and technologies for ubiquitous computing environments which allow the dynamic aggregation of diverse I/O devices into a single coherent user experience	HCI	4
-3131	A Comparison of Techniques to Find Mirrored Hosts on the WWW We compare several algorithms for identifying mirrored hosts on the World Wide Web	IR	2
-3137	The Augurscope: A Mixed Reality Interface for Outdoors The augurscope is a portable mixed reality interface for outdoors	HCI	4
-3159	Location Systems for Ubiquitous Computing To serve us well emerging mobile computing applications will need to know the physical location of things so that they can record them and report them to us: What lab bench was I standing by when I prepared these tissue samples?	HCI	4
-3160	Case-Based Representation and Learning of Pattern Languages Pattern languages seem to suit case-based reasoning particularly well	ML	1
-3173	The RoboCup Synthetic Agent Challenge 97 RoboCup Challenge offers a set of challenges for intelligent agent researchers using a friendly competition in a dynamic real-time multiagent domain	Agents	0
-3175	Diffusion-snakes using statistical shape knowledge  We present a novel extension of the Mumford-Shah functional  that allows to incorporate statistical shape knowledge at the computational  level of image segmentation	ML	1
-3178	Latency-dependent fitness in evolutionary multithreaded Web agents The World Wide Web creates opportunities for search systems using adaptive distributed agents	ML	1
-3181	VideoGraph: A Graphical Object-based Model for Representing and Querying Video Data	DB	3
+0	Stochastic pro-positionalization of non-determinate background knowledge	Rule_Learning	0
+1	Neural networks and statistical models	Neural_Networks	1
+3	User's Guide to the PGAPack Parallel Genetic Algorithm Library Version 02 :	Genetic_Algorithms	3
+18	Storing and indexing plan derivations through explanation-based analysis of retrieval failures	Case_Based	2
+27	No Gain: Landscapes Learning Costs and Genetic Assimilation submitted to EC and University of Sussex CSRP 409(?)	Genetic_Algorithms	3
+38	Improving rule-based systems through case-based reasoning	Case_Based	2
+45	A mixture model system for medical and machine diagnosis	Probabilistic_Methods	6
+53	A comparison of constructive induction with different types of new attribute	Theory	4
+54	Using generative models for handwritten digit recognition :	Neural_Networks	1
+57	Learning structural descriptions from examples	Case_Based	2
+70	Impediments to Universal Preference-Based Default Theories: Research on nonmonotonic and default reasoning has identified several important criteria for preferring alternative default inferences	Probabilistic_Methods	6
+83	Regularities in a Random Mapping from Orthography to Semantics: In this paper we investigate representational and methodological issues in a attractor network model of the mapping from orthography to semantics based on [Plaut 1995]	Neural_Networks	1
+84	Inference in Dynamic Error-in-Variable-Measurement Problems: Efficient algorithms have been developed for estimating model parameters from measured data even in the presence of gross errors	Neural_Networks	1
+90	The evaluation of Anapron: A case study in evaluating a case-based system: This paper presents a case study in evaluating a case-based system	Case_Based	2
+91	Some recent ideas on utility (and probability) (not for distribution or reference):	Probabilistic_Methods	6
+93	Memory-based Time Series Recognition  A New Methodology and Real World Applications:	Neural_Networks	1
+99	Sequential PAC Learning: We consider the use of on-line stopping rules to reduce the number of training examples needed to pac-learn	Theory	4
+101	LEARNING BY USING DYNAMIC FEATURE COMBINATION AND SELECTION:	Theory	4
+118	EVOLVING ROBOT BEHAVIORS: This paper discusses the use of evolutionary computation to evolve behaviors that exhibit emergent intelligent behavior	Genetic_Algorithms	3
+123	ENVIRONMENT-INDEPENDENT REINFORCEMENT ACCELERATION  difference between time and space is that you can't reuse time	Reinforcement_Learning	5
+129	From Theory Refinement to KB Maintenance: a Position Statement: Since we consider theory refinement (TR) as a possible key concept for a methodologically clear view of knowledge-base maintenance we try to give a structured overview about the actual state-of-the-art in TR	Rule_Learning	0
+131	A Fast Bottom-Up Decision Tree Pruning Algorithm with Near-Optimal Generalization: In this work we present a new bottom-up algorithm for decision tree pruning that is very efficient (requiring only a single pass through the given tree) and prove a strong performance guarantee for the generalization error of the resulting pruned tree	Theory	4
+133	EMRBF: A Statistical Basis for Using Radial Basis Functions for Process Control: Radial Basis Function (RBF) neural networks offer an attractive equation form for use in model-based control because they can approximate highly nonlinear plants and yet are well suited for linear adaptive control	Neural_Networks	1
+137	Stability and Chaos in an Inertial Two Neuron System  in Statistical Mechanics and Complex Systems: Inertia is added to a continuous-time Hopfield [1] effective-neuron system	Neural_Networks	1
+142	Using Case-Based Reasoning for Mobile Robot Navigation: This paper presents an approach to mobile robot path planning using case-based reasoning together with map-based path planning	Case_Based	2
+147	Bias and the Probability of Generalization: In order to be useful a learning algorithm must be able to generalize well when faced with inputs not previously presented to the system	Case_Based	2
+148	Parameterized Heuristics for Intelligent Adaptive Network Routing in Large Communication Networks: Parameterized heuristics offers an elegant and powerful theoretical framework for design and analysis of autonomous adaptive communication networks	Reinforcement_Learning	5
+163	Submitted to the Future Generation Computer Systems special issue on Data Mining	Neural_Networks	1
+166	Analysis of the Convergence and Generalization of AA1: AA1 is an incremental learning algorithm for Adaptive Self-Organizing Concurrent Systems (ASOCS)	Neural_Networks	1
+178	A utility-based approach to learning in a mixed Case-Based and Model-Based Reasoning architecture: Case-based reasoning (CBR) can be used as a form of caching solved problems to speedup later problem solving	Case_Based	2
+179	Evaluating Computational Assistance for Crisis Response: In this paper we examine the behavior of a human-computer system for crisis response	Case_Based	2
+185	Using Mixtures of Factor Analyzers for Segmentation and Pose Estimation  Category: Visual Processing Preference: Oral: To read a hand-written digit string it is helpful to segment the image into separate digits	Neural_Networks	1
+186	Evolving Teamwork and Coordination with Genetic Programming: Some problems can be solved only by multi-agent teams	Genetic_Algorithms	3
+187	Solving Combinatorial Optimization Tasks by Reinforcement Learning: A General Methodology Applied to Resource-Constrained Scheduling: This paper introduces a methodology for solving combinatorial optimization problems through the application of reinforcement learning methods	Reinforcement_Learning	5
+193	The Role of Activity in Synaptic Competition at the Neuromuscular Junction: An extended version of the dual constraint model of motor end-plate morphogenesis is presented that includes activity dependent and independent competition	Neural_Networks	1
+196	On Learning Read-k-Satisfy-j DNF: We study the learnability of Read-k-Satisfy-j (RkSj) DNF formulas	Theory	4
+197	Extraction of Facial Features for Recognition using Neural Networks:	Neural_Networks	1
+205	From: Computational Learning Theory and Natural Systems Chapter 18 Cross-validation and Modal Theories Cross-Validation and: Cross-validation is a frequently used intuitively pleasing technique for estimating the accuracy of theories learned by machine learning algorithms	Theory	4
+207	Analogical Problem Solving by Adaptation of Schemes: We present a computational approach to the acquisition of problem schemes by learning by doing and to their application in analogical problem solving	Case_Based	2
+211	Segmentation and Classification of Combined Optical and Radar Imagery: The classification performance of a neural network for combined six-band Landsat-TM and one-band ERS-1/SAR PRI imagery from the same scene is carried out	Neural_Networks	1
+215	Walsh Functions and Predicting Problem Complexity:	Genetic_Algorithms	3
+218	Classifying Seismic Signals by Integrating Ensembles of Neural Networks: This paper proposes a classification scheme based on integration of multiple Ensembles of ANNs	Neural_Networks	1
+222	Simulation of Reduced Precision Arithmetic for Digital Neural Networks Using the RAP Machine: This paper describes some of our recent work in the development of computer architectures for efficient execution of artificial neural network algorithms	Neural_Networks	1
+226	FLEXIBLE PARAMETRIC MEASUREMENT ERROR MODELS: Inferences in measurement error models can be sensitive to modeling assumptions	Probabilistic_Methods	6
+231	How to Get a Free Lunch: A Simple Cost Model for Machine Learning Applications: This paper proposes a simple cost model for machine learning applications based on the notion of net present value	Case_Based	2
+241	Mutual Information as a Bayesian Measure of Independence: 00 Abstract	Probabilistic_Methods	6
+246	Robust Value Function Approximation by Working Backwards Computing an accurate value function is the key: In this paper we examine the intuition that TD() is meant to operate by approximating asynchronous value iteration	Reinforcement_Learning	5
+249	On the Distribution of Performance from Multiple Neural Network Trials On the Distribution of Performance: Andrew D Back was with the Department of Electrical and Computer Engineering University of Queensland	Neural_Networks	1
+259	In Proceedings of the 1997 Sian Kaan International Workshop on Neural Networks and Neurocontrol	Neural_Networks	1
+265	ON MCMC METHODS IN BAYESIAN REGRESSION ANALYSIS AND MODEL SELECTION: The objective of statistical data analysis is not only to describe the behaviour of a system but also to propose construct (and then to check) a model of observed processes	Probabilistic_Methods	6
+269	Improved Center Point Selection for Probabilistic Neural Networks: Probabilistic Neural Networks (PNN) typically learn more quickly than many neural network models and have had success on a variety of applications	Neural_Networks	1
+270	Bayesian Finite Mixtures for Nonlinear Modeling of Educational data: In this paper we discuss a Bayesian approach for finding latent classes in the data	Probabilistic_Methods	6
+273	Evolution of Iteration in Genetic Programming D a v d A The solution to many: This paper introduces the new operation of restricted iteration creation that automatically Genetic programming extends Holland's genetic algorithm to the task of automatic programming	Genetic_Algorithms	3
+274	Combining Linear Discriminant Functions with Neural Networks for Supervised Learning: A novel supervised learning method is presented by combining linear discriminant functions with neural networks	Neural_Networks	1
+280	Avoiding Saturation By Trajectory Reparameterization: The problem of trajectory tracking in the presence of input constraints is considered	Neural_Networks	1
+282	Modeling Ill-Structured Optimization Tasks through Cases: CABINS is a framework of modeling an optimization task in ill-structured domains	Case_Based	2
+287	Determining Successful Negotiation Strategies: An Evolutionary Approach: To be successful in open multi-agent environments autonomous agents must be capable of adapting their negotiation strategies and tactics to their prevailing circumstances	Genetic_Algorithms	3
+292	Power System Security Margin Prediction Using Radial Basis Function Networks: Dr McCalley's research is partially supported through grants from National Science Foundation and Pacific Gas and Electric Company	Neural_Networks	1
+295	CONTROL-LYAPUNOV FUNCTIONS FOR TIME-VARYING SET STABILIZATION: This paper shows that for time varying systems global asymptotic controllability to a given closed subset of the state space is equivalent to the existence of a continuous control-Lyapunov function with respect to the set	Neural_Networks	1
+296	Multimodality Exploration in Training an Unsupervised Projection Pursuit Neural Network: Graphical inspection of multimodality is demonstrated using unsupervised lateral-inhibition neural networks	Neural_Networks	1
+301	Cortical Mechanisms of Visual Recognition and Learning: A Hierarchical Kalman Filter Model: We describe a biologically plausible model of dynamic recognition and learning in the visual cortex based on the statistical theory of Kalman filtering from optimal control theory	Neural_Networks	1
+307	Integrity Constraints in ILP using a Monte Carlo approach: Many state-of-the-art ILP systems require large numbers of negative examples to avoid overgeneralization	Rule_Learning	0
+309	EEG Signal Classification with Different Signal Representations  for a large number of hidden units	Neural_Networks	1
+311	Knowledge Based Systems: Technical Report No	Case_Based	2
+313	Exploiting Choice: Instruction Fetch and Issue on an implementable Simultaneous Multithread-ing Processor	Rule_Learning	0
+315	Machine Learning: An Annotated Bibliography for the 1995 AI Statistics Tutorial on Machine Learning (Version 1): This is a brief annotated bibliography that I wanted to make available to the attendees of my Machine Learning tutorial at the 1995 AI & Statistics Workshop	Case_Based	2
+321	Discovering Compressive Partial Determinations in Mixed Numerical and Symbolic Domains: Partial determinations are an interesting form of dependency between attributes in a relation	Rule_Learning	0
+325	Adaptive Wavelet Control of Nonlinear Systems: This paper considers the design and analysis of adaptive wavelet control algorithms for uncertain nonlinear dynamical systems	Neural_Networks	1
+330	Exploration in Machine Learning: Most researchers in machine learning have built their learning systems under the assumption that some external entity would do all the work of furnishing the learning experiences	Theory	4
+342	SUPERVISED COMPETITIVE LEARNING FOR FINDING POSITIONS OF RADIAL BASIS FUNCTIONS: This paper introduces the magnetic neural gas (MNG) algorithm which extends unsupervised competitive learning with class information to improve the positioning of radial basis functions	Neural_Networks	1
+349	NACODAE: Navy Conversational Decision Aids Environment: This report documents NACODAE the Navy Conversational Decision Aids Environment being developed at the Navy Center for Applied Research in Artificial Intelligence (NCARAI) which is a branch of the Naval Research Laboratory	Case_Based	2
+350	Testing the Generalized Linear Model Null Hypothesis versus `Smooth' Alternatives 1:	Neural_Networks	1
+357	Efficient estimation for the Cox model with interval censoring	Probabilistic_Methods	6
+368	Learning sorting and decision trees with POMDPs: pomdps are general models of sequential decisions in which both actions and observations can be probabilistic	Reinforcement_Learning	5
+371	June 1994 T o app ear in Neural Computation A Coun terexample to T emp: Sutton's TD( ) metho d aims to provide a represen tation of the cost function in an absorbing Mark ov chain with transition costs	Neural_Networks	1
+373	Structural Similarity and Adaptation: Most commonly case-based reasoning is applied in domains where attribute value representations of cases are sufficient to represent the features relevant to support classification diagnosis or design tasks	Case_Based	2
+382	Truth-from-Trash Learning and the Mobot: As natural resources become less abundant we naturally become more interested in and more adept at utilisation of waste materials	Neural_Networks	1
+390	Interval Censored Survival Data: A Review of Recent Progress: We review estimation in interval censoring models including nonparametric estimation of a distribution function and estimation of regression models	Probabilistic_Methods	6
+394	Interpretation of Complex Scenes Using Bayesian Networks: In most object recognition systems interactions between objects in a scene are ignored and the best interpretation is considered to be the set of hypothesized objects that matches the greatest number of image features	Probabilistic_Methods	6
+395	An Efficient Boosting Algorithm for Combining Preferences: The problem of combining preferences arises in several applications such as combining the results of different search engines	Theory	4
+401	A Neural Network Model for Prognostic Prediction: An important and difficult prediction task in many domains particularly medical decision making is that of prognosis	Neural_Networks	1
+402	Volatility of Volatility of Financial Markets: We present empirical evidence for considering volatility of Eurodollar futures as a stochastic process requiring a generalization of the standard Black-Scholes (BS) model which treats volatility as a constant	Neural_Networks	1
+406	The Role of Constraints in Hebbian Learning: Models of unsupervised correlation-based (Hebbian) synaptic plasticity are typically unstable: either all synapses grow until each reaches the maximum allowed strength or all synapses decay to zero strength	Neural_Networks	1
+409	Systematic Evaluation of Design Decisions in CBR Systems: Two important goals in the evaluation of an AI theory or model are to assess the merit of the design decisions in the performance of an implemented computer system and to analyze the impact in the performance when the system faces problem domains with different characteristics	Case_Based	2
+416	Trees and Splines in Survival Analysis: Technical Report No	Neural_Networks	1
+436	Reinforcement Learning with Imitation in Heterogeneous Multi-Agent Systems: The application of decision making and learning algorithms to multi-agent systems presents many interestingresearch challenges and opportunities	Reinforcement_Learning	5
+439	Virtual Seens and the Frequently Used Dataset: The paper considers the situation in which a learner's testing set contains close approximations of cases which appear in the training set	Theory	4
+462	Automated Highway System: ALVINN (Autonomous Land Vehicle in a Neural Net) is a Backpropagation trained neural network which is capable of autonomously steering a vehicle in road and highway environments	Neural_Networks	1
+464	Beyond predictive accuracy: what?	Case_Based	2
+465	Learning Convex Sets of Probability from Data: Several theories of inference and decision employ sets of probability distributions as the fundamental representation of (subjective) belief	Probabilistic_Methods	6
+473	Temporal abstractions for pre-processing and interpreting diabetes monitoring time series: In this paper we describe a number of intelligent data analysis techniques to pre-process and analyze data coming from home monitoring of diabetic patients	Case_Based	2
+485	LEARNING MORE FROM LESS DATA: EXPERIMENTS WITH LIFELONG ROBOT LEARNING:	Case_Based	2
+508	Metrics for Temporal Difference Learning: For an absorbing Markov chain with a reinforcement on each transition Bertsekas (1995a) gives a simple example where the function learned by TD( ll ) depends on ll	Reinforcement_Learning	5
+520	Knowledge Integration and Rule Extraction in Neural Networks PhD Proposal:	Neural_Networks	1
+525	Identification of Protein Coding Regions In Genomic DNA Molecular Cellular and Developmental Biology Keywords: gene:	Neural_Networks	1
+526	Prognosing the femoral neck fracture recovery with machine learning: We compare the performance and explanation abilities of several machine learning algorithms in the problem of predicting the femoral neck fracture recovery	Rule_Learning	0
+535	A Genome Compiler for High Performance Genetic Programming: Genetic Programming is very computationally expensive	Genetic_Algorithms	3
+541	Boolean Functions Fitness Spaces: We investigate the distribution of performance of the Boolean functions of 3 Boolean inputs (particularly that of the parity functions) the always-on-6 and even-6 parity functions	Genetic_Algorithms	3
+544	Genetic Programming Methodology Parallelization and Applications  par:	Genetic_Algorithms	3
+548	TABLE DES MATI ERES 1 Apprentissage et approximation les techniques de regularisation 3 11 Introduction:	Neural_Networks	1
+553	Statistical Dynamics of the Royal Road Genetic Algorithm: Metastability is a common phenomenon	Genetic_Algorithms	3
+557	Computational complexity reduction for BN2O networks using similarity of states: Although probabilistic inference in a general Bayesian belief network is an NP-hard problem inference computation time can be reduced in most practical cases by exploiting domain knowledge and by making appropriate approximations in the knowledge representation	Probabilistic_Methods	6
+558	Automatic Modularization by Speciation: Real-world problems are often too difficult to be solved by a single monolithic system	Genetic_Algorithms	3
+559	Non-Deterministic Constraint-Based Parsing of Human Genes:	Neural_Networks	1
+566	Modeling Building-Block Interdependency  Dynamical and Evolutionary Machine Organization Group: The Building-Block Hypothesis appeals to the notion of problem decomposition and the assembly of solutions from sub-solutions	Genetic_Algorithms	3
+569	A Fast Non-Parametric Density Estimation Algorithm: Non-parametric density estimation is the problem of approximating the values of a probability density function given samples from the associated distribution	Probabilistic_Methods	6
+570	Sonderforschungsbereich 314 K unstliche Intelligenz Wissensbasierte Systeme KI-Labor am Lehrstuhl f ur Informatik IV Numerical:	Probabilistic_Methods	6
+589	Independent Component Analysis of Simulated EEG Using a Three-Shell Spherical Head Model 1: 1 This report was supported in part by the Navy Medical Research and Development Command and the Office of Naval Research Department of the Navy under work unit ONRReimb-6429	Neural_Networks	1
+608	MARKOV CHAIN MONTE CARLO SAMPLING FOR EVALUATING MULTIDIMENSIONAL INTEGRALS WITH APPLICATION TO BAYESIAN COMPUTATION: Recently Markov chain Monte Carlo (MCMC) sampling methods have become widely used for determining properties of a posterior distribution	Probabilistic_Methods	6
+611	Between-host evolution of mutation-rate and within-host evolution of virulence	Genetic_Algorithms	3
+622	Reparameterisation Issues in Mixture Modelling and their bearing on MCMC algorithms: There is increasing need for efficient estimation of mixture distributions especially following the explosion in the use of these as modelling tools in many applied fields	Probabilistic_Methods	6
+623	A note on acceptance rate criteria for CLTs for Hastings-Metropolis algorithms: This note considers positive recurrent Markov chains where the probability of remaining in the current state is arbitrarily close to 1	Probabilistic_Methods	6
+633	Solving Combinatorial Problems Using Evolutionary Algorithms:	Genetic_Algorithms	3
+636	VIEWNET ARCHITECTURES FOR INVARIANT 3-D OBJECT LEARNING AND RECOGNITION FROM MULTIPLE 2-D VIEWS: 3 The recognition of 3-D objects from sequences of their 2-D views is modeled by a family of self-organizing neural architectures called VIEWNET that use View Information Encoded With NETworks	Neural_Networks	1
+645	A Context-Sensitive Generalization of ICA: Source separation arises in a surprising number of signal processing applications from speech recognition to EEG analysis	Probabilistic_Methods	6
+646	New Evidence Driven State Merging Algorithm: Results of the Abbadingo One DFA Learning Abstract	Theory	4
+648	Language as a dynamical system:	Neural_Networks	1
+659	Programming Environment for a High Performance Parallel Supercomputer with Intelligent Communication: At the Electronics Lab of the Swiss Federal Institute of Techology (ETH) in Zurich the high performance Parallel Supercomputer MUSIC (MUlti processor System with Intelligent Communication) has beed developed	Neural_Networks	1
+660	Spline Smoothing For Bivariate Data With Applications To Association Between Hormones:	Neural_Networks	1
+666	NONPARAMETRIC SELECTION OF INPUT VARIABLES FOR CONNECTIONIST LEARNING:	Neural_Networks	1
+670	Avoiding overfitting by locally matching the noise level of the data gating network discovers the: When trying to forecast the future behavior of a real-world system two of the key problems are nonstationarity of the process (eg regime switching) and overfitting of the model (particularly serious for noisy processes)	Neural_Networks	1
+675	Exemplar-based Music Structure Recognition: We tend to think of what we really know as what we can talk about and disparage knowledge that we can't verbalize	Case_Based	2
+676	Go and Genetic Programming Playing Go with Filter Functions:	Genetic_Algorithms	3
+678	Fast Bounded Smooth Regression with Lazy Neural Trees: We propose the lazy neural tree (LNT) as the appropriate architecture for the realization of smooth regression systems	Neural_Networks	1
+685	Contextually Guided Unsupervised Learning using Local Multivariate Binary Processors: We thank Sue Becker Peter Hancock and Darragh Smyth for helpful comments on this work	Neural_Networks	1
+690	Analysis of the Numerical Effects of Parallelism on a Parallel Genetic Algorithm: This paper examines the effects of relaxed synchronization on both the numerical and parallel efficiency of parallel genetic algorithms (GAs)	Genetic_Algorithms	3
+693	Logarithmic Time Parallel Bayesian Inference: I present a parallel algorithm for exact probabilistic inference in Bayesian networks	Probabilistic_Methods	6
+699	Exploring the decision forest: An empirical investigation of Occam's razor in decision tree induction	Theory	4
+711	A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for Gaussian: We describe the maximum-likelihood parameter estimation problem and how the Expectation-Maximization (EM) algorithm can be used for its solution	Probabilistic_Methods	6
+715	Temporal Compositional Processing by a DSOM Hierarchical Model: Any intelligent system whether human or robotic must be capable of dealing with patterns over time	Neural_Networks	1
+717	0 Inductive learning of compact rule sets by using efficient hypotheses reduction: A method is described which reduces the hypotheses space with an efficient and easily interpretable reduction criteria called a - reduction	Theory	4
+730	Data-driven Modeling and Synthesis of Acoustical Instruments: We present a framework for the analysis and synthesis of acoustical instruments based on data-driven probabilistic inference modeling	Neural_Networks	1
+739	Program Optimization for Faster Genetic Programming: We have used genetic programming to develop efficient image processing software	Genetic_Algorithms	3
+740	A Comparative Study of Genetic Search: We present a comparative study of genetic algorithms and their search properties when treated as a combinatorial optimization technique	Genetic_Algorithms	3
+748	Genetic Encoding Strategies for Neural Networks: The application of genetic algorithms to neural network optimization (GANN) has produced an active field of research	Genetic_Algorithms	3
+759	Localist Attractor Networks: Attractor networks which map a continuous input space to a discrete output space are useful for pattern completion cleaning up noisy or missing features in an input	Neural_Networks	1
+763	A Next Generation Neurally Based Autonomous Road Follower : The use of artificial neural networks in the domain of autonomous vehicle navigation has produced promising results	Neural_Networks	1
+765	: ARCING THE EDGE Leo Breiman Technical Report 486  Statistics Department University of California Berkeley CA	Theory	4
+766	Is Transfer Inductive?	Theory	4
+772	Importance Sampling: Technical Report No	Probabilistic_Methods	6
+773	GIBBS-MARKOV MODELS: In this paper we present a framework for building probabilistic automata parameterized by context-dependent probabilities	Neural_Networks	1
+777	Learning to Refine Case Libraries:: Initial Results Abstract	Case_Based	2
+779	ANNEALED THEORIES OF LEARNING: We study annealed theories of learning boolean functions using a concept class of finite cardinality	Theory	4
+781	: A Genetic Algorithm Tutorial Darrell Whitley Technical Report CS-93-103 (Revised) November 10 1993	Genetic_Algorithms	3
+794	Model of the Environment to Avoid Local Learning: Pier Luca Lanzi Technical Report N 9746 December 20 th  1997	Reinforcement_Learning	5
+799	Abstract: Self-selection of input examples on the basis of performance failure is a powerful bias for learning systems	Case_Based	2
+801	: Empirical Comparison of Gradient Descent and Exponentiated Gradient Descent in Supervised and Reinforcement Learning Technical Report 96-70	Reinforcement_Learning	5
+805	Rejection of Incorrect Answers from a Neural Net Classifier: Frank Smieja Report number: 1993/2	Neural_Networks	1
+808	Eclectic Machine Learning:	Neural_Networks	1
+816	: A General Result on the Stabilization of Linear Systems Using Bounded Controls 1 ABSTRACT We present two constructions of controllers that globally stabilize linear systems subject to control saturation	Neural_Networks	1
+821	Inductive Logic Programming: A new research area Inductive Logic Programming is presently emerging	Theory	4
+825	A `SELF-REFERENTIAL' WEIGHT MATRIX: Weight modifications in traditional neural nets are computed by hard-wired algorithms	Neural_Networks	1
+827	Rationality and Intelligence: The long-term goal of our field is the creation and understanding of intelligence	Probabilistic_Methods	6
+835	Abstract: Metacognition addresses the issues of knowledge about cognition and regulating cognition	Case_Based	2
+836	On-Site Learning: A model for on-site learning is presented	Theory	4
+839	Structural Regression Trees: In many real-world domains the task of machine learning algorithms is to learn a theory predicting numerical values	Rule_Learning	0
+842	: 1] RK Belew J McInerney and N Schraudolph Evolving networks: using the genetic algorithm with connectionist learning in Artificial Life II SFI Studies in the Science of Complexity CG	Genetic_Algorithms	3
+843	Data Mining for Association Rules with Unsupervised Neural Networks: results for Gaussian mixture models and factor analysis are discussed	Neural_Networks	1
+845	Adapting Abstract Knowledge: For a case-based reasoner to use its knowledge flexibly it must be equipped with a powerful case adapter	Case_Based	2
+848	Conceptual Analogy: Conceptual analogy (CA) is an approach that integrates conceptualization ie memory organization based on prior experiences and analogical reasoning (Borner 1994a)	Case_Based	2
+854	Scaling-up RAAMs: Modifications to Recursive Auto-Associative Memory are presented which allow it to store deeper and more complex data structures than previously reported	Neural_Networks	1
+880	Abstract: This paper is a scientific comparison of two code generation techniques with identical goals generation of the best possible software pipelined code for computers with instruction level parallelism	Rule_Learning	0
+881	Instructions: Paper and BibTeX entry are available at http://wwwcomplangtuwienacat/papers/	Rule_Learning	0
+885	(1995) Linear space induction in first order logic with RELIEFF : Current ILP algorithms typically use variants and extensions of the greedy search	Rule_Learning	0
+886	(1995) Discretization of continuous attributes using ReliefF : Instead of myopic impurity functions we propose the use of Reli-efF for heuristic guidance of inductive learning algorithms	Rule_Learning	0
+888	Selection of Relevant Features in Machine Learning	Theory	4
+894	Evolving cooperation strategies	Genetic_Algorithms	3
+900	Routing in Optical Multistage Interconnection Networks: a Neural Network Solution : There has been much interest in using optics to implement computer interconnection networks	Neural_Networks	1
+901	DM	Neural_Networks	1
+905	Learning Goal Oriented Bayesian Networks for Telecommunications Management	Probabilistic_Methods	6
+906	Constructive neural network learning algorithms for multi-category classification	Neural_Networks	1
+909	Learning from examples agent teams and the concept of reflection	Neural_Networks	1
+911	From isolation to cooperation: An alternative view of a system of experts	Neural_Networks	1
+913	An Efficient Computational Model of Human Visual Attention	Neural_Networks	1
+917	Slonim	Theory	4
+920	Discrete-time transitivity and accessibility: analytic systems	Neural_Networks	1
+921	Warmuth How to use expert advice : We analyze algorithms that predict a binary value by combining the predictions of several prediction strategies called experts	Theory	4
+922	Learning from a consistently ignorant teacher	Theory	4
+925	Exact identification of circuits using fixed points of amplification functions	Theory	4
+933	A unified gradient-descent/clustering algorithm architecture for finite state machine induction	Neural_Networks	1
+935	Cryptographic limitations on learning boolean formulae and finite automata	Theory	4
+940	An upper bound on the loss from approximate optimal value functions	Reinforcement_Learning	5
+949	Learning sequential decision rules using simulation models and competition : The problem of learning decision rules for sequential tasks is addressed focusing on the problem of learning tactical decision rules from a simple flight simulator	Genetic_Algorithms	3
+954	a platform for emergencies management systems	Case_Based	2
+956	(1997) Analysis of a non-reversible Markov chain sampler : Technical Report BU-1385-M Biometrics Unit Cornell University Abstract We analyse the convergence to stationarity of a simple non-reversible Markov chain that serves as a model for several non-reversible Markov chain sampling methods that are used in practice	Probabilistic_Methods	6
+957	Continuous sigmoidal belief networks trained using slice sampling	Probabilistic_Methods	6
+958	Auxilliary variable methods for Markov chain Monte Carlo with applications	Probabilistic_Methods	6
+960	Convergence Rates of Markov Chains	Probabilistic_Methods	6
+961	Learning robot behaviors using genetic algorithms : Genetic Algorithms are used to learn navigation and collision avoidance behaviors for robots	Genetic_Algorithms	3
+962	Induction of Decision Trees :	Theory	4
+963	TRAINREC: A System for Training Feedforward and Simple Recurrent Networks Efficiently and Correctly	Neural_Networks	1
+964	Reinforcement Learning Algorithms for Average-Payoff Markovian Decision Processes	Reinforcement_Learning	5
+968	Adapting control strategies for situated autonomous agents	Genetic_Algorithms	3
+972	Supervised learning from incom plete data via an EM approach	Probabilistic_Methods	6
+979	Efficient implementation of Gaussian processes for interpolation	Neural_Networks	1
+981	The parallel transfer of task knowledge using dynamic learning rates based on a measure of relatedness Connection Science Special Issue: Transfer in Inductive Systems : An hypothesis of functional transfer of task knowledge is presented that requires the development of a measure of task relatedness and a method of sequential learning	Neural_Networks	1
+985	(1995) Fast perceptual learning in hyperacuity	Neural_Networks	1
+996	Sample complexity for learning recurrent perceptron mappings : DIMACS Technical Report 95-17	Neural_Networks	1
+1010	Qualitative probabiliteis for default reasoning belief revision and causal modeling	Probabilistic_Methods	6
+1022	Learning goal-decomposition rules using exercises	Rule_Learning	0
+1025	A Framework for Combining Symbolic and Neural Learning	Neural_Networks	1
+1027	Learning se-mantic grammars with constructive inductive logic programming	Rule_Learning	0
+1031	Inference in model-based cluster analysis	Probabilistic_Methods	6
+1032	On Bayesian analysis of mixtures with an unknown number of components	Probabilistic_Methods	6
+1035	Learning coordinated behaviors for control of a simulated robot	Neural_Networks	1
+1037	Designing neural networks for adaptive control	Reinforcement_Learning	5
+1042	A Radial Basis Function Approach to Financial Time Series Analysis	Neural_Networks	1
+1046	Using Fourier-neural recurrent networks to fit sequential input/output data : This paper suggests the use of Fourier-type activation functions in fully recurrent neural networks	Neural_Networks	1
+1051	Characterizing the input-to-state stability property for set stability : We show that the well-known Lyapunov sufficient condition for input-to-state stability is also necessary settling positively an open question raised by several authors during the past few years	Neural_Networks	1
+1054	(1992b) Adapting crossover in a genetic algorithm	Genetic_Algorithms	3
+1062	Evolving non-trivial behaviors on real robots: a garbage collecting robot : Recently a new approach that involves a form of simulated evolution has been proposed for the building of autonomous robots	Genetic_Algorithms	3
+1066	An unified treatment of uncertainties	Probabilistic_Methods	6
+1080	Annealed competition of experts for a segmentation and classification of switching dynamics	Neural_Networks	1
+1083	Learning monitoring strategies: A difficult genetic programming application	Genetic_Algorithms	3
+1084	Rana Nonlinearity Hyperplane Ranking and the Simple Genetic Algorithms : Several metrics are used in empirical studies to explore the mechanisms of convergence of genetic algorithms	Genetic_Algorithms	3
+1085	DNF if you can't learn 'em teach 'em: An interactive model of teaching	Theory	4
+1086	The minimum feature set problem	Theory	4
+1087	Kanazawa Reasoning about Time and Probability :	Probabilistic_Methods	6
+1093	Learning dfa from simple examples	Theory	4
+1106	Worst-case quadratic loss bounds for on-line prediction of linear functions by gradient descent	Theory	4
+1115	Space-efficient inference in dynamic probabilistic networks	Probabilistic_Methods	6
+1119	Automatic Indexing Retrieval and Reuse of Topologies in Complex Designs	Case_Based	2
+1124	Robust analysis of bayesian networks with finitely generated convex sets of distributions	Probabilistic_Methods	6
+1130	CLONES: A Connectionist Layerd Object-oriented NEtwork Simulator	Neural_Networks	1
+1139	Rule checking with recurrent neural networks : Recurrent neural networks readily process recognize and generate temporal sequences	Neural_Networks	1
+1140	Extraction of rules from discrete-time recurrent neural networks	Neural_Networks	1
+1144	A pre-processing model for integrating CBR and prototype-based neural networks : Some important factors that play a major role in determining the performances of a CBR (Case-Based Reasoning) system are the complexity and the accuracy of the retrieval phase	Case_Based	2
+1149	Markov chain Monte Carlo convergence diagnostics: A comparative review	Probabilistic_Methods	6
+1151	A modular Q-learning architecture for manipulator task decomposition : Compositional Q-Learning (CQ-L) (Singh 1992) is a modular approach to learning to perform composite tasks made up of several elemental tasks by reinforcement learning	Reinforcement_Learning	5
+1153	Using DNA to solve NP-Complete Problems : A strategy for using Genetic Algorithms (GAs) to solve NP-complete problems is presented	Genetic_Algorithms	3
+1154	New inexact parallel variable distribution algorithms	Neural_Networks	1
+1161	On convergence properties of the em algorithm for gaussian mixtures	Probabilistic_Methods	6
+1162	Efficient algorithms inverting evolution	Theory	4
+1167	Learning belief networks in the presence of missing values and hidden variables	Probabilistic_Methods	6
+1171	Markov games as a framework for multi-agent reinforcement learning	Reinforcement_Learning	5
+1183	Genetic algorithms as a tool for feature selection in machine learning	Genetic_Algorithms	3
+1197	Hierarchical explanation-based reinforcement learning	Reinforcement_Learning	5
+1200	Lazy acquisition of place knowledge	Case_Based	2
+1216	On the hardness of approximate rea soning	Probabilistic_Methods	6
+1218	Constructing bayesian finite mixture models by the EM algorithm	Probabilistic_Methods	6
+1220	Avoiding overfitting with BP-SOM	Neural_Networks	1
+1222	Experiments on adding memory to XCS	Reinforcement_Learning	5
+1247	Characterizing the generalization performance of model selection strategies	Theory	4
+1262	Naive bayesian classifier within ILP-R	Rule_Learning	0
+1272	Evolving obstacle avoidance behavior in a robot arm	Reinforcement_Learning	5
+1289	Predicting sunspots and exchange rates with connectionist networks	Neural_Networks	1
+1293	Self-improving factory simulation using continuous-time average reward reinforcement learning in Proceedings of the Fourteenth International Machine Learning Conference : Many factory optimization problems from inventory control to scheduling and reliability can be formulated as continuous-time Markov decision processes	Reinforcement_Learning	5
+1299	Learning conjunctions of Horn clauses	Theory	4
+1307	planning in an open-textured domain	Case_Based	2
+1314	Exploratory Learning in the Game of GO: Initial Results	Reinforcement_Learning	5
+1316	Coevolving High Level Representations :	Genetic_Algorithms	3
+1322	Possible world partition sequences: A unifying framework for uncertain reasoning	Probabilistic_Methods	6
+1326	Constraint tangent distance for online character recognition	Neural_Networks	1
+1328	A method for identifying splice sites and translational start sites in eukaryotic mRNA	Neural_Networks	1
+1331	On the sample complexity of noise-tolerant learning	Theory	4
+1343	Task-oriented Knowledge Acquisition and Reasoning for Design Support Systems	Case_Based	2
+1346	Paying attention to the right things: Issues of focus in case-based creative design	Case_Based	2
+1347	An investigation of noise-tolerant relational concept learning algorithms	Rule_Learning	0
+1353	Space-frequency localized basis function networks for nonlinear system estimation and control : Stable neural network control and estimation may be viewed formally as a merging of concepts from nonlinear dynamic systems theory with tools from multivariate approximation theory	Neural_Networks	1
+1368	Blind separation of delayed sources based on information maximisation : Blind separation of independent sources from their convolutive mixtures is a problem in many real world multi-sensor applications	Neural_Networks	1
+1374	a multiple instruction stream computer	Rule_Learning	0
+1378	A distributed feature map model of the lexicon	Neural_Networks	1
+1390	A Theory of Learning Classification Rules	Theory	4
+1395	`Classification by pairwise coupling' : We discuss a strategy for polychotomous classification that involves estimating class probabilities for each pair of classes and then coupling the estimates together	Theory	4
+1401	networks that develop their own teaching input	Genetic_Algorithms	3
+1402	On the worst-case analysis of temporal-difference learing algorithms	Theory	4
+1404	A Delay Damage Model Selection Algorithm for NARX Neural Networks : Recurrent neural networks have become popular models for system identification and time series prediction	Neural_Networks	1
+1409	Representing preferences as ceteris paribus comparatives	Probabilistic_Methods	6
+1419	On the perception of time as phase: Toward an adaptive-oscillator model of rhythm	Neural_Networks	1
+1431	Simultaneous Multithreading: A Platform for Next-Generation Processors	Rule_Learning	0
+1433	An explanation-based approach to improve retrieval in case-based planning	Case_Based	2
+1442	Feature selection methods for classifications	Neural_Networks	1
+1449	Steepest descent adaptation of min-max fuzzy If-Then rules :	Neural_Networks	1
+1459	A correlation-based motion detection chip : Inspired by a visual motion detection model for the rabbit retina and by a computational architecture used for early audition in the barn owl we have designed a chip that employs a correlation model to report the one-dimensional field motion of a scene in real time	Neural_Networks	1
+1467	Learning to control fast-weight memories: An alternative to recurrent nets	Neural_Networks	1
+1470	Objective function formulation of the BCM theory of visual cortical plasticity: Statistical connections stability conditions	Neural_Networks	1
+1473	TK (1994)	Neural_Networks	1
+1475	Generalization by Controlled Expansion of Examples	Neural_Networks	1
+1479	Enhancing model-based learning for its application in robot navigation	Rule_Learning	0
+1481	Error Reduction through Learning Multiple Descriptions	Theory	4
+1485	Why does Bagging Work?	Theory	4
+1490	Statistical biases in backpropagation learning	Neural_Networks	1
+1500	Reinforcement driven information acquisition in nondeterministic environments	Reinforcement_Learning	5
+1501	Machine learning applied to diagnosis of sport injuries	Rule_Learning	0
+1503	Fast pruning using principal components	Neural_Networks	1
+1507	Baird (1995)	Reinforcement_Learning	5
+1508	Reinforcement learning methods for continuous time markov decision problems	Reinforcement_Learning	5
+1522	Pack Kaelbling	Reinforcement_Learning	5
+1532	The efficient learning of multiple task sequences : I present a modular network architecture and a learning algorithm based on incremental dynamic programming that allows a single learning agent to learn to solve multiple Markovian decision tasks (MDTs) with significant transfer of learning across the tasks	Reinforcement_Learning	5
+1536	TD models: modeling the world at a mixture of time scales	Reinforcement_Learning	5
+1538	Parsimonious least norm approximation	Neural_Networks	1
+1539	Mathematical programming in data mining	Neural_Networks	1
+1540	Universal portfolios with and without transaction costs	Theory	4
+1549	Memory-based Stochastic Optimization : This paper focuses on the optimization of hyper-parameters for function approximators	Reinforcement_Learning	5
+1552	The third generation of neural network models : The computational power of formal models for networks of spiking neurons is compared with that of other neural network models based on McCulloch Pitts neurons (ie	Neural_Networks	1
+1556	Adaptation of genetic algorithms for engineering design optimization	Genetic_Algorithms	3
+1566	(1990) : Knowledge Acquisition via Knowledge Integration	Rule_Learning	0
+1578	Optimal mutation rates in genetic search	Genetic_Algorithms	3
+1587	CM	Probabilistic_Methods	6
+1590	Selective Sampling Using the Query by Committee Algorithm : We analyze the query by committee algorithm a method for filtering informative queries from a random stream of inputs	Theory	4
+1598	Extracting Comprehensible Models from Trained Neural Networks	Neural_Networks	1
+1603	Learning from bad data	Neural_Networks	1
+1607	Motif-based hidden Markov models of protein families	Neural_Networks	1
+1616	Knowledge representation for supporting decision model formulation in medicine	Probabilistic_Methods	6
+1624	Back propagation is sensitive to initial conditions	Neural_Networks	1
+1631	Supervised and unsupervised discretization of continuous features	Theory	4
+1638	A study of cross-validation and bootstrap for accuracy estimation and model selection	Probabilistic_Methods	6
+1651	Script recognition with hierarchical feature maps	Neural_Networks	1
+1659	An efficient implementation of sigmoidal neural nets in temporal coding with noisy spiking neurons : We show that networks of relatively realistic mathematical models for biological neurons can in principle simulate arbitrary feedforward sigmoidal neural nets in a way which has previously not been considered	Neural_Networks	1
+1663	Statistical mechanics of neocortical interactions	Neural_Networks	1
+1666	A genetic algorithm for the set partitioning problem	Genetic_Algorithms	3
+1675	Phonetic classification of TIMIT segments preprocessed with lyon's cochlear model using a supervised/unsupervised hybrid neural network	Neural_Networks	1
+1679	Inductive bias in case-based reasoning systems	Theory	4
+1681	Learning to represent codons: A challenge problem for constructive induction	Neural_Networks	1
+1683	Learning acyclic first-order horn sentences from entailment	Theory	4
+1686	Genetic Algorithms in Search Optimization and Machine Learning	Genetic_Algorithms	3
+1690	Evolving networks: Using the genetic algorithm with connectionist learning	Genetic_Algorithms	3
+1695	Formal rules for selecting prior distributions: a review and annotated bibliography	Probabilistic_Methods	6
+1705	MML mixture mod-elling of Multi-state Poisson von Mises circular and Gaussian distributions	Theory	4
+1721	A Generalizing Adaptive Discriminant Network	Neural_Networks	1
+1737	A hybrid projection proximal point algorithm	Neural_Networks	1
+1739	A theory of questions and question asking	Case_Based	2
+1741	Learning to achieve goals	Reinforcement_Learning	5
+1744	Bayesian Statistics 4 : The major implementational problem for reversible jump MCMC is that there is commonly no natural way to choose jump proposals since there is no Euclidean structure to guide our choice	Probabilistic_Methods	6
+1750	A Model of Creative Understanding : Although creativity has largely been studied in problem solving contexts creativity consists of both a generative component and a comprehension component	Case_Based	2
+1765	Unsupervised learning by convex and conic coding	Neural_Networks	1
+1766	Pattern analysis and synthesis in attractor neural networks	Neural_Networks	1
+1784	Factor analysis using delta-rule wake-sleep learning : Technical Report No	Neural_Networks	1
+1786	Ring	Neural_Networks	1
+1789	Comparison of neural net and conventional techniques for lighting control	Neural_Networks	1
+1803	Using real-valued genetic algorithms to evolve rule sets for classification	Genetic_Algorithms	3
+1806	On the Power of Equivalence Queries	Theory	4
+1822	Power system security margin prediction using radial basis function networks	Neural_Networks	1
+1829	A mixture of experts model exhibiting prosopag--nosia	Neural_Networks	1
+1832	Learning Feature-based Semantics with Simple Recurrent Networks : The paper investigates the possibilities for using simple recurrent networks as transducers which map sequential natural language input into non-sequential feature-based semantics	Neural_Networks	1
+1833	Supervised learning from incomplete data via an EM approach	Probabilistic_Methods	6
+1834	Hierarchical Mixtures of Experts and the EM Algorithm : We present a tree-structured architecture for supervised learning	Probabilistic_Methods	6
+1844	(1994) Automatic smoothing spline projection pursuit	Neural_Networks	1
+1858	Gain adaptation beats least squares	Neural_Networks	1
+1863	Learning and evolution in neural networks :	Genetic_Algorithms	3
+1864	Neuronlike adaptive elements that can solve difficult learning control problems	Reinforcement_Learning	5
+1869	Neural programming and an internal reinforcement policy	Genetic_Algorithms	3
+1871	Abstraction and Decomposition in Hill-climbing Design Optimization	Case_Based	2
+1879	A knowledge-intensive approach to learning relational concepts	Rule_Learning	0
+1882	Decision graphs an extension of decision trees	Theory	4
+1885	Context-sensitive learning methods for text categorization	Theory	4
+1886	Deriving monotonic function envelopes from ob-servations	Neural_Networks	1
+1896	Toward efficient agnostic learning	Theory	4
+1906	Cooperative Case-Based Reasoning : We are investigating possible modes of cooperation among homogeneous agents with learning capabilities	Case_Based	2
+1913	A computational environment for exhaust nozzle design	Genetic_Algorithms	3
+1921	Backpropagation can give rise to spurious local minima even for networks without hidden layers	Neural_Networks	1
+1933	Applying Case Retrieval Nets to diagnostic tasks in technical domains	Case_Based	2
+1936	Clustering learning tasks and the selective cross-task transfer of knowledge : This research is sponsored in part by the National Science Foundation under award IRI-9313367 and by the Wright Laboratory Aeronautical Systems Center Air Force Materiel Command USAF and the Advanced Research Projects Agency (ARPA) under grant number F33615-93-1-1330	Neural_Networks	1
+1937	Bayes factors and model uncertainty	Probabilistic_Methods	6
+1938	A simpler look at consistency	Theory	4
+1939	A computational view of population genetics	Genetic_Algorithms	3
+1948	Extended selection mechanisms in genetic algorithms	Genetic_Algorithms	3
+1949	Using Prior Knowledge in a NNDPA to Learn Context-Free Languages : Although considerable interest has been shown in language inference and automata induction using recurrent neural networks success of these models has mostly been limited to regular languages	Neural_Networks	1
+1959	Approximation by scattered shifts of a radial basis function : The paper studies L 1 (IR d )-norm approximations from a space spanned by a discrete set of translates of a basis function	Neural_Networks	1
+1968	Explaining explaining away	Probabilistic_Methods	6
+1970	(1996c) Feedback Models: Interpretation and Discovery	Probabilistic_Methods	6
+1972	Unsupevised learning of distributions on binary vectors using two-layer networks	Probabilistic_Methods	6
+1980	Simplifying decision trees: A survey	Theory	4
+1981	Strongly Typed Genetic Programming	Genetic_Algorithms	3
+1983	Causality in genetic programming	Genetic_Algorithms	3
+1987	Prior stabilizers and basis functions : from regularization to radial tensor and additive splines	Neural_Networks	1
+1988	A Model of Bias Learning	Theory	4
+1993	Reinforcement learning in the multi-robot domain : This paper describes a formulation of reinforcement learning that enables learning in noisy dynamic environemnts such as in the complex concurrent multi-robot learning domain	Reinforcement_Learning	5
+1997	Grefenstette (1990)	Genetic_Algorithms	3
+1998	Improving tactical plans with genetic algorithms	Genetic_Algorithms	3
+2008	(1997b) Modelling and robustness issues in Bayesian time series analysis (with discussion)	Probabilistic_Methods	6
+2016	What online Machine Learning can do for Knowledge Acquisition	Rule_Learning	0
+2019	Structural evaluation of analogies: : Judgments of similarity and soundness are important aspects of human analogical processing	Case_Based	2
+2025	(1994) An application of ILP in music : We describe SFOIL a descendant of FOIL that uses the advanced stochastic search heuristic and its application in learning to compose the two-voice counterpoint	Rule_Learning	0
+2030	(1991) Global optimization by means of distributed evolution Genetic Algorithms in Engineering and Computer Science Editor J : Genetic Algorithms (GAs) are powerful heuristic search strategies based upon a simple model of organic evolution	Genetic_Algorithms	3
+2034	Genetic algorithm programming environments	Genetic_Algorithms	3
+2040	Adapting the evaluation space to improve global learning	Genetic_Algorithms	3
+2042	Challenges in evolving controllers for physical robots	Genetic_Algorithms	3
+2043	Self-Adaption in Genetic Algorithms	Genetic_Algorithms	3
+2052	A family of txed-point algorithms for independent component analysis	Neural_Networks	1
+2054	Signal separation by nonlinear Hebbian learning :	Neural_Networks	1
+2055	Independent component analysis by general nonlinear hebbian-like learning rules	Neural_Networks	1
+2056	One-unit learning rules for independent component analysis : Neural one-unit learning rules for the problem of Independent Component Analysis (ICA) and blind source separation are introduced	Neural_Networks	1
+2060	Collective memory search	Genetic_Algorithms	3
+2064	Clique detection via genetic programming	Genetic_Algorithms	3
+2075	Local selection	Genetic_Algorithms	3
+2078	Ellman	Case_Based	2
+2097	Massively parallel genetic programming	Genetic_Algorithms	3
+2100	Fitness causes bloat: Mutation	Genetic_Algorithms	3
+2105	Discovery of symbolic neuro-symbolic and neural networks with parallel distributed genetic programming	Genetic_Algorithms	3
+2110	Use of architecture-altering operations to dynamically adapt a three-way analog source identification circuit to accommodate a new source : We used genetic programming to evolve b o t h the topology and the sizing (numerical values) for each component of an analog electrical circuit that can correctly classify an incoming analog electrical signal into three categories	Genetic_Algorithms	3
+2116	Fitness causes bloat in variable size representations	Genetic_Algorithms	3
+2119	Evolving a generalised behavior: Artificial ant problem revisited	Genetic_Algorithms	3
+2128	Genetic programming estimates of kol-mogorov complexity	Genetic_Algorithms	3
+2129	Using genetic programming to evolve board evaluation functions	Genetic_Algorithms	3
+2132	Cultural transmission of information in genetic programming	Genetic_Algorithms	3
+2136	Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic Decision Tree Induction Algorithm	Genetic_Algorithms	3
+2139	Pattern recognition via linear programming: Theory and application to medical diagnosis	Neural_Networks	1
+2142	Geometric comparison of classifications and rule sets	Rule_Learning	0
+2145	Connection pruning with static and adaptive pruning schedules	Neural_Networks	1
+2146	Pruning with generalization based weight saliencies: : The purpose of most architecture optimization schemes is to improve generalization	Neural_Networks	1
+2150	Dynamically adjusting concepts to accommodate changing contexts	Case_Based	2
+2168	Efficient instruction scheduling using finite state automata	Rule_Learning	0
+2171	NTishby Testing for Non linearity and Gaussianity in sustained portion of musical signals : Higher order spectra of a signal contain information about the non Gaussian and non Linear properties of the system that created it	Neural_Networks	1
+2172	Cortical activity flips among quasi-stationary states	Neural_Networks	1
+2176	Reinforcement Learning with Soft State Aggregation	Reinforcement_Learning	5
+2178	Integrated Architectures for Learning Planning and Reacting Based on Approximating Dynamic Programming : This paper extends previous work with Dyna a class of architectures for intelligent systems based on approximating dynamic programming methods	Reinforcement_Learning	5
+2186	Automatic Definition of Modular Neural Networks	Genetic_Algorithms	3
+2189	Autonomous Learning from the Environment	Theory	4
+2192	Generalization of Clauses under Implication	Rule_Learning	0
+2196	Belief maintenance in bayesian networks	Probabilistic_Methods	6
+2198	Tempering backpropagation networks: Not all weights are created equal : Backpropagation learning algorithms typically collapse the network's structure into a single vector of weight parameters to be optimized	Neural_Networks	1
+2199	Early stopping | but when?	Neural_Networks	1
+2200	An enhancer for reactive plans	Case_Based	2
+2202	CNN: a neural architecture that learns multiple transformations of spatial representations :	Neural_Networks	1
+2213	Theory of correlations in stochastic neural networks	Neural_Networks	1
+2215	Addressing the Selective Superiority Problem: Automatic Algorithm/Model Class Selection	Theory	4
+2217	Density estimation by wavelet thresholding	Probabilistic_Methods	6
+2227	Heterogeneous Radial Basis Functions : Instance-based learning techniques typically handle continuous and linear input values well but often do not handle nominal input attributes appropriately	Case_Based	2
+2236	NP-Completeness of Searches for Smallest Possible Feature Sets	Theory	4
+2240	FLARE: Induction with Prior Knowledge	Case_Based	2
+2241	Schultz (1994)	Genetic_Algorithms	3
+2245	Combining FOIL and EBG to speedup logic programs	Rule_Learning	0
+2252	Diagnosing convergence of Markov chain Monte Carlo algorithms	Probabilistic_Methods	6
+2255	Decomposable Graphical Gaussian Model Determination	Probabilistic_Methods	6
+2264	Minorization conditions and convergence rates for Markov chain Monte Carlo	Probabilistic_Methods	6
+2272	Possible biases induced by MCMC convergence diagnostics	Probabilistic_Methods	6
+2274	Perfect simulation of Harris recurrent Markov chains	Probabilistic_Methods	6
+2283	(1997) Perfect Simulation of some Point Processes for the Impatient User Advances in Applied Probability Stochastic Geometry and Statistical Applications : Recently Propp and Wilson [14] have proposed an algorithm called Coupling from the Past (CFTP) which allows not only an approximate but perfect (ie	Probabilistic_Methods	6
+2291	Exact transition probabilities for the independence Metropolis sampler	Probabilistic_Methods	6
+2297	Geometric and subgeometric convergence of diffusions with given stationary distributions	Probabilistic_Methods	6
+2298	(1998) A new sequential simulated annealing method	Probabilistic_Methods	6
+2299	A reversible jump sampler for autoregressive time series	Probabilistic_Methods	6
+2313	Toward a unified theory of spatiotemporal processing in the retina	Neural_Networks	1
+2321	Two is Better than One: a Diploid Genotype for Neural Networks	Genetic_Algorithms	3
+2323	Bayesian training of backpropagation networks by the hybrid monte carlo method	Neural_Networks	1
+2326	Quantifying prior determination knowledge using PAC learning model	Theory	4
+2330	Evolutionary computation in air traffic control planning	Genetic_Algorithms	3
+2335	Achieving super computer performance with a DSP array processor	Neural_Networks	1
+2337	Using smoothing spline anova to examine the relation of risk factors to the incidence and progression of diabetic retinopathy :	Probabilistic_Methods	6
+2339	Stochastic Inductive Logic Programming	Rule_Learning	0
+2343	Automatic Parameter Selection by Minimizing Estimated Error	Theory	4
+2354	Predicting probability distributions: A connectionist approach	Neural_Networks	1
+2366	(1992) Hyperparameter estimation in Dirichlet process mixture models ISDS Discussion Paper 92-A03 : In Bayesian density estimation and prediction using Dirichlet process mixtures of standard exponential family distributions the precision or total mass parameter of the mixing Dirichlet process is a critical hyperparame-ter that strongly influences resulting inferences about numbers of mixture components	Probabilistic_Methods	6
+2373	A study of experimental evaluations of neural network learning algorithms: Current research practice	Neural_Networks	1
+2389	PAC-learning PROLOG clauses with or without errors	Theory	4
+2393	What is the best thing to do right now?	Neural_Networks	1
+2397	Parametrization studies for the SAM and HMMER methods of hidden Markov model generation	Neural_Networks	1
+2398	Turing computability with neural nets	Neural_Networks	1
+2405	Smoothing spline ANOVA for exponential families with application to the Wisconsin Epidemiological Study of Diabetic Retinopathy	Neural_Networks	1
+2410	Solving the multiple-instance problem with axis-parallel rectangles	Neural_Networks	1
+2417	Dynamical selection of learning algorithms	Theory	4
+2419	(1995) Constructive Algorithms for Hierachical Mixtures of Experts	Neural_Networks	1
+2425	Local adaptive learning algorithms for blind separation of natural images : In this paper a neural network approach for reconstruction of natural highly correlated images from linear (additive) mixture of them is proposed	Neural_Networks	1
+2426	Modularity in a connectionist model of morphology acquisition : This paper describes a modular connectionist model of the acquisition of receptive inflectional morphology	Neural_Networks	1
+2432	Learning to Predict User Operations for Adaptive Scheduling	Case_Based	2
+2438	Regional stability of and ERS/JERS-1 classifier : The achievements of SAR-based land-cover classification have progressed rapidly in recent years using data from the JPL AirSAR [1]	Neural_Networks	1
+2446	Probabilistic evaluation of sequential plans from causal models with hidden variables	Probabilistic_Methods	6
+2454	Constructive learning of recurrent neural networks	Neural_Networks	1
+2460	Modeling cortical plasticity based on adapting lateral interaction	Neural_Networks	1
+2462	A defect in Dempster-Shafer theory	Probabilistic_Methods	6
+2463	A Bayesian approach to learning Bayesian networks with local structure	Probabilistic_Methods	6
+2474	Object-Oriented Design of Parallel BP Neural Network Simulator and Implementation on the connection machine CM-5 : In this paper we describe the implementation of the backpropagation algorithm by means of an object oriented library (ARCH)	Neural_Networks	1
+2476	A performance analysis of the CNS-1 on large dense backpropagation networks	Neural_Networks	1
+2495	Geometry of Early Stopping in Linear Networks In G :	Neural_Networks	1
+2497	Similar classifiers and VC error bounds	Theory	4
+2499	Remarks on Finite Gain Stabilizability of Linear Systems Subject to Input Saturation : This paper deals with (global) finite-gain input/output stabilization of linear systems with saturated controls	Neural_Networks	1
+2500	Improved uniform test error bounds : We derive distribution-free uniform test error bounds that improve on VC-type bounds for validation	Theory	4
+2501	Validation of average error rate over classifiers : We examine methods to estimate the average and variance of test error rates over a set of classifiers	Neural_Networks	1
+2504	Cluster-weighted modeling for time series prediction and characterization	Probabilistic_Methods	6
+2516	Generalization and exclusive allocation of credit in unsupervised category learning	Neural_Networks	1
+2519	Partition-based uniform error bounds : This paper develops probabilistic bounds on out-of-sample error rates for several classifiers using a single set of in-sample data	Theory	4
+2524	On estimation of a probability density function and mode	Neural_Networks	1
+2525	Merge Strategies for Multiple Case Plan Replay	Case_Based	2
+2526	Rationale-supported mixed-initiative case-based planning	Case_Based	2
+2530	Genetic Algorithms and Very Fast Reannealing: A Comparison : We compare Genetic Algorithms (GA) with a functional search method Very Fast Simulated Reannealing (VFSR) that not only is efficient in its search strategy but also is statistically guaranteed to find the function optima	Genetic_Algorithms	3
+2532	Statistical mechanics of combat with human factors : This highly interdisciplinary project extends previous work in combat modeling and in control-theoretic descriptions of decision-making human factors in complex activities	Neural_Networks	1
+2533	Statistical mechanics of nonlinear nonequilibrium financial markets : The work in progress reported by Wright & Liley shows great promise primarily because of their experimental and simulation paradigms	Neural_Networks	1
+2542	The parallel projection operators of a nonlinear feedback system : 13] Yang Y HJ	Neural_Networks	1
+2544	Perceptual Development and Learning: From Behavioral Neurophysiological and Morphological Evidence to Computational Models	Neural_Networks	1
+2549	Maximizing the robustness of a linear threshold classifier with discrete weights	Neural_Networks	1
+2555	(1997b) Probabilistic Modeling for Combinatorial Optimization : Probabilistic models have recently been utilized for the optimization of large combinatorial search problems	Genetic_Algorithms	3
+2577	Finding Gluon Jets with a Neural trigger : Using a neural network classifier we are able to separate gluon from quark jets originating from Monte Carlo generated e + e events with 85 90% accuracy	Neural_Networks	1
+2593	The weighted majority algorithm : fl This research was primarily conducted while this author was at the University of Calif at Santa Cruz with support from ONR grant N00014-86-K-0454 and at Harvard University supported by ONR grant N00014-85-K-0445 and DARPA grant AFOSR-89-0506	Theory	4
+2601	Automated synthesis of computational circuits using genetic programming	Genetic_Algorithms	3
+2623	The Automated Mapping of Plans for Plan Recognition : To coordinate with other agents in its environment an agent needs models of what the other agents are trying to do	Probabilistic_Methods	6
+2630	Centering neural network gradient factors : Technical Report IDSIA-19-97 Abstract	Neural_Networks	1
+2645	Learning one-dimensional geometric patterns under one-sided random misclassification noise	Theory	4
+2654	Complexity Compression and Evolution	Genetic_Algorithms	3
+2659	Comparison of neural and statistical classifiers|theory and practice	Neural_Networks	1
+2669	Creative design: reasoning and understanding	Case_Based	2
+2671	Inductive database design	Rule_Learning	0
+2675	Reinforcement learning with hierarchies of machines	Reinforcement_Learning	5
+2677	A theory and methodology of machine learning	Rule_Learning	0
+2681	Developments in probabilistic modelling with neural networks| ensemble learning	Theory	4
+2682	Choice of basis for the Laplace approximation	Probabilistic_Methods	6
+2686	Visualizing the simple bayesian classifier	Probabilistic_Methods	6
+2689	Balancing Accuracy and Parsimony in Genetic Programming : Genetic programming is distinguished from other evolutionary algorithms in that it uses tree representations of variable size instead of linear strings of fixed length	Genetic_Algorithms	3
+2694	Adaptive behaviour in competing co-evolving species	Genetic_Algorithms	3
+2704	What kind of adaptation do CBR systems need?	Case_Based	2
