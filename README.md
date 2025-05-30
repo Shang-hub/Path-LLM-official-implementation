@@ -3,10 +3,10 @@
 ## Overview
 
 **Path-LLM** is a framework for graph representation learning using large language models (LLMs). It provides tools for:
-- Generating L2SP datasets for LLMs,
-- Training and fine-tuning LLMs on L2SP-based paths,
-- Extracting node embeddings,
-- Evaluating embeddings on node classification, edge validation and keyword search tasks.
+- L2SP selection for Path-LLM,
+- Path-LLM self-supervised pre-training on L2SP-based paths,
+- Extracting node embeddings from fine-tuned Path-LLM,
+- Evaluating Path-LLM embeddings on node classification, edge validation and keyword search tasks.
 
 ## Directory Structure
 
@@ -69,7 +69,7 @@ Select L2SP paths in graphs.
 
 ### 2. PathLLM_tuning.py
 
-Fine-tune a Llama-2 model on L2SP-based paths.
+Fine-tune Path-LLM through the self-supervised learning on L2SP-based paths.
 
 **Usage:**
 - Place your HuggingFace access token and training data in `training_data.txt`.
@@ -81,13 +81,13 @@ Fine-tune a Llama-2 model on L2SP-based paths.
 
 ### 3. no_tuning_pathllm.py
 
-Extract node embeddings using a pre-trained LLM.
+Extract node embeddings from the fine-tuned Path-LLM.
 
 **Usage:**
 ```bash
 python no_tuning_pathllm.py <model_path> <output_embedding_path>
 ```
-- `model_path`: Path to the HuggingFace model (e.g., `meta-llama/Llama-2-7b-hf`)
+- `model_path`: Path to Path-LLM.
 - `output_embedding_path`: File to save node embeddings.
 
 ### 4. nc.py
@@ -105,13 +105,13 @@ Evaluate edge validation performance.
 
 **Usage:**
 ```bash
-python lp.py <embedding_file> <result_name>
+python ev.py <embedding_file> <result_name>
 ```
 
 
 ### 6. calculate_newgraph_weight.py
 
-Calculate edge weights for a graph based on node embeddings.
+Calculate edge weights for a graph based on node embeddings derived by Path-LLM.
 
 **Usage:**
 - Edit the script to set the input and output file paths.
@@ -122,7 +122,7 @@ Calculate edge weights for a graph based on node embeddings.
 
 ### 7. keyword_search_case.py
 
-Case study for keyword-based path search in PubMed.
+Case study for keyword-based path search.
 
 **Usage:**
 - Edit the script to set the input file paths.
@@ -134,4 +134,4 @@ Case study for keyword-based path search in PubMed.
 ## Notes
 
 - You need to adjust file paths and device settings in the scripts.
-- For LLM fine-tuning, ensure you have the appropriate HuggingFace access and model weights.
+- For Path-LLM fine-tuning, ensure you have the appropriate HuggingFace access and model weights.
